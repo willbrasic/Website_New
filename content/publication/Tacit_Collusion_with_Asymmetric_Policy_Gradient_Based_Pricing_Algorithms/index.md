@@ -76,4 +76,4 @@ projects:
 slides: example
 ---
 
-This work is largely driven by the results in my [previous paper](/publication/When_Asymmetric_Pricing_Algorithms_Collide/) on algorithmic pricing fixing.
+<!-- This work is largely driven by the results in my [previous paper](/publication/When_Asymmetric_Pricing_Algorithms_Collide/) on algorithmic pricing fixing. -->

@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Industrial Organization | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/industrial-organization/</link>
-      <atom:link href="http://localhost:1313/tags/industrial-organization/index.xml" rel="self" type="application/rss+xml" />
+    <title>Industrial Organization | William Brasic</title>
+    <link>https://willbrasic.github.io/tags/industrial-organization/</link>
+      <atom:link href="https://willbrasic.github.io/tags/industrial-organization/index.xml" rel="self" type="application/rss+xml" />
     <description>Industrial Organization</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu78c25ba02d6ba5bd1874b4343a6a876d_24431_512x512_fill_lanczos_center_3.png</url>
+      <url>https://willbrasic.github.io/media/icon_hu78c25ba02d6ba5bd1874b4343a6a876d_24431_512x512_fill_lanczos_center_3.png</url>
       <title>Industrial Organization</title>
-      <link>http://localhost:1313/tags/industrial-organization/</link>
+      <link>https://willbrasic.github.io/tags/industrial-organization/</link>
     </image>
     
     <item>
       <title>Tacit Collusion with Asymmetric Policy Gradient-Based Pricing Algorithms</title>
-      <link>http://localhost:1313/publication/tacit_collusion_with_asymmetric_policy_gradient_based_pricing_algorithms/</link>
+      <link>https://willbrasic.github.io/publication/tacit_collusion_with_asymmetric_policy_gradient_based_pricing_algorithms/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tacit_collusion_with_asymmetric_policy_gradient_based_pricing_algorithms/</guid>
-      <description>&lt;p&gt;This work is largely driven by the results in my &lt;a href=&#34;http://localhost:1313/publication/When_Asymmetric_Pricing_Algorithms_Collide/&#34;&gt;previous paper&lt;/a&gt; on algorithmic pricing fixing.&lt;/p&gt;
+      <guid>https://willbrasic.github.io/publication/tacit_collusion_with_asymmetric_policy_gradient_based_pricing_algorithms/</guid>
+      <description>&lt;!-- This work is largely driven by the results in my [previous paper](/publication/When_Asymmetric_Pricing_Algorithms_Collide/) on algorithmic pricing fixing. --&gt;
 </description>
     </item>
     
     <item>
       <title>When Asymmetric Pricing Algorithms Collide</title>
-      <link>http://localhost:1313/publication/when_asymmetric_pricing_algorithms_collide/</link>
+      <link>https://willbrasic.github.io/publication/when_asymmetric_pricing_algorithms_collide/</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/when_asymmetric_pricing_algorithms_collide/</guid>
+      <guid>https://willbrasic.github.io/publication/when_asymmetric_pricing_algorithms_collide/</guid>
       <description></description>
     </item>
     

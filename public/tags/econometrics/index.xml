@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Econometrics | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/econometrics/</link>
-      <atom:link href="http://localhost:1313/tags/econometrics/index.xml" rel="self" type="application/rss+xml" />
+    <title>Econometrics | William Brasic</title>
+    <link>https://willbrasic.github.io/tags/econometrics/</link>
+      <atom:link href="https://willbrasic.github.io/tags/econometrics/index.xml" rel="self" type="application/rss+xml" />
     <description>Econometrics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu78c25ba02d6ba5bd1874b4343a6a876d_24431_512x512_fill_lanczos_center_3.png</url>
+      <url>https://willbrasic.github.io/media/icon_hu78c25ba02d6ba5bd1874b4343a6a876d_24431_512x512_fill_lanczos_center_3.png</url>
       <title>Econometrics</title>
-      <link>http://localhost:1313/tags/econometrics/</link>
+      <link>https://willbrasic.github.io/tags/econometrics/</link>
     </image>
     
     <item>
       <title>Introduction to Econometrics: ECON 418-518 (Fall 2024)</title>
-      <link>http://localhost:1313/teaching/econ_418-518_fall_2024/</link>
+      <link>https://willbrasic.github.io/teaching/econ_418-518_fall_2024/</link>
       <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/econ_418-518_fall_2024/</guid>
+      <guid>https://willbrasic.github.io/teaching/econ_418-518_fall_2024/</guid>
       <description>&lt;h2 id=&#34;welcome&#34;&gt;Welcome!&lt;/h2&gt;
-&lt;p&gt;This is the course website for &lt;strong&gt;Introduction to Econometrics: ECON 418-518.001&lt;/strong&gt; at &lt;strong&gt;The University of Arizona&lt;/strong&gt;. Here, you will be able to access the &lt;strong&gt;lecture slides&lt;/strong&gt; and &lt;strong&gt;homeworks&lt;/strong&gt; for the entire course along with &lt;strong&gt;R code&lt;/strong&gt; used to teach the language. For the syllabus, click here: &lt;a href=&#34;http://localhost:1313/ECON_418-518_Syllabus/ECON_418-518_Syllabus.pdf&#34; target=&#34;_blank&#34;&gt;Syllabus&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is the course website for &lt;strong&gt;Introduction to Econometrics: ECON 418-518.001&lt;/strong&gt; at &lt;strong&gt;The University of Arizona&lt;/strong&gt;. Here, you will be able to access the &lt;strong&gt;lecture slides&lt;/strong&gt; and &lt;strong&gt;homeworks&lt;/strong&gt; for the entire course along with &lt;strong&gt;R code&lt;/strong&gt; used to teach the language. For the syllabus, click here: &lt;a href=&#34;https://willbrasic.github.io/ECON_418-518_Syllabus/ECON_418-518_Syllabus.pdf&#34; target=&#34;_blank&#34;&gt;Syllabus&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This course will provide you with a comprehensive introduction to &lt;strong&gt;econometrics&lt;/strong&gt;, a crucial tool for identifying causal effects. We will start by understanding the basics of econometrics and reviewing the essential mathematical concepts necessary for success in this course. Following this, we will delve into the fundamental building blocks of econometrics, focusing on simple and multiple linear regression using ordinary least squares. We will explore the assumptions underlying the linear model, discuss the consequences of violating these assumptions, and learn techniques to address these issues. Additionally, we will go beyond linear regression to cover more advanced econometric estimators.&lt;/p&gt;
 &lt;p&gt;In the final third of the course, we will transition to &lt;strong&gt;machine learning&lt;/strong&gt;, a rapidly evolving field that is increasingly influencing econometrics and economics as a whole. We will begin by understanding the core principles and comparing them to traditional econometrics. The remainder of the course will be dedicated to learning some of the most prominent machine learning algorithms.&lt;/p&gt;
 &lt;p&gt;Moreover, you will gain proficiency in &lt;strong&gt;R&lt;/strong&gt;, a powerful language and environment for statistical computing and graphics. R is widely used by economists and statisticians, and developing expertise in it will be a valuable asset for your resume and career prospects. I strongly encourage you to invest time in mastering R.&lt;/p&gt;
@@ -29,7 +29,7 @@ On this page, you&#39;ll find some examples of the types of technical content th
 &lt;h2 id=&#34;lecture-slides&#34;&gt;Lecture Slides&lt;/h2&gt;
 &lt;p&gt;Below are the &lt;strong&gt;lecture slides&lt;/strong&gt; associated with &lt;em&gt;&lt;strong&gt;Introductory Econometrics: A Modern Approach&lt;/strong&gt;&lt;/em&gt; by Jeffrey M. Wooldridge.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_Matrix_Algebra.pdf&#34; target=&#34;_blank&#34;&gt;Matrix Algebra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://willbrasic.github.io/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_Matrix_Algebra.pdf&#34; target=&#34;_blank&#34;&gt;Matrix Algebra&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Below are the lecture slides associated with &lt;em&gt;&lt;strong&gt;Introduction to Statistical Learning with Applications in R&lt;/strong&gt;&lt;/em&gt; by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.&lt;/p&gt;
 &lt;p&gt;1.&lt;/p&gt;
@@ -38,7 +38,7 @@ On this page, you&#39;ll find some examples of the types of technical content th
 &lt;h2 id=&#34;r-code&#34;&gt;R Code&lt;/h2&gt;
 &lt;p&gt;Below is the &lt;strong&gt;R code&lt;/strong&gt; associated with the course&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/ECON_418-518_R_Code/ECON_418-518_R_Tutorial.html&#34; target=&#34;_blank&#34;&gt;R Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://willbrasic.github.io/ECON_418-518_R_Code/ECON_418-518_R_Tutorial.html&#34; target=&#34;_blank&#34;&gt;R Tutorial&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;!--
 
