@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
-date: 2022-10-24
+title: "William Brasic"
+date: 2024-07-26
 type: landing
 
 design:
@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: CV/Brasic_William_CV_1.pdf
+        url: /CV/Brasic_William_CV.pdf
     design:
       css_class: dark
       background:
@@ -35,9 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research interests include industrial organization, machine learning, and applied econometrics. I am greatly interested in the advancements of AI and its impact on economics. I am currently working on constructing a deep reinforcement learning model to assess algorithmic price fixing.
 
         Please reach out to collaborate 😃
     design:
@@ -45,7 +43,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Working Papers
       filters:
         folders:
           - publication
@@ -53,55 +51,57 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
+
+  # - block: collection
+    #content:
+      #title: Recent Publications
+      #text: ""
+      #filters:
+        #folders:
+          #- publication
+        #exclude_featured: false
+    #design:
+      #view: citation
+  #- block: collection
+    #id: talks
+    #content:
+      #title: Recent & Upcoming Talks
+      #filters:
+        #folders:
+          #- event
+    #design:
+      #view: article-grid
+      #columns: 1
+  # - block: collection
+    #id: news
+    # content:
+      #title: Recent News
+      #subtitle: ''
+      #text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
+      #page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      #count: 5
       # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
+      #filters:
+        #author: ""
+        #category: ""
+        #tag: ""
+        #exclude_featured: false
+        #exclude_future: false
+        #exclude_past: false
+        #publication_type: ""
       # Choose how many pages you would like to offset by
-      offset: 0
+      #offset: 0
       # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
+      #order: desc
+    #design:
       # Choose a layout view
-      view: date-title-summary
+      #view: date-title-summary
       # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      #spacing:
+        #padding: [0, 0, 0, 0]
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
