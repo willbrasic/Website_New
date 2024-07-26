@@ -3,12 +3,8 @@
 title: William Brasic
 
 # Full name (for SEO)
-first_name: William
+first_name: Will
 last_name: Brasic
-
-# Status emoji
-status:
-  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -69,7 +65,6 @@ education:
       - Econometrics
       - Statistics
       - Mathematics
-
 
 work:
   - position: Sole Instructor of Record

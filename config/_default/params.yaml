@@ -8,6 +8,7 @@ appearance:
   mode: system
   color: emerald
 
+
 # SEO
 marketing:
   seo:
@@ -34,6 +35,8 @@ header:
     fixed_to_top: true
     show_search: false
     show_theme_chooser: false
+    logo:
+      text: "William Brasic"
 
 # Site footer
 footer:
