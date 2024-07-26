@@ -1,16 +1,16 @@
-name: GitHub Pages
+name: Deploy Hugo Site to GitHub Pages
 
 on:
   push:
     branches:
-      - main  # Set a branch to deploy
+      - main
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout
+    - name: Checkout repository
       uses: actions/checkout@v2
 
     - name: Setup Hugo
@@ -19,13 +19,13 @@ jobs:
         hugo-version: 'latest'
         extended: true
 
-    - name: Build
+    - name: Build Hugo site
       run: hugo --minify
 
-    - name: Deploy
+    - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         personal_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        publish_dir: ./public
+        external_repository: willbrasic/willbrasic.github.io
         publish_branch: gh-pages
-        destination_dir: .
+        publish_dir: ./public
