@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: William Brasic
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: William
+last_name: Brasic
 
 # Status emoji
 status:
@@ -24,7 +21,7 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: The University of Arizona
     url: https://openai.com/
 
 # Social network links
@@ -78,7 +75,7 @@ education:
     date_end: 2020-12-31
     summary: |
       GPA: 3.4/4.0
-      
+
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
