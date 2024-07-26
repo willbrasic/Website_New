@@ -50,3 +50,4 @@ We're an open source movement that depends on your support to stay online and th
 * [Easily make an academic CV website to get more cites and grow your audience 🚀](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;easily-make-academic-website&#x2F;)
 <!--END_SECTION:news-->
 "A change to trigger deployment" 
+"A change to trigger deployment" 
