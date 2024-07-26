@@ -8,7 +8,7 @@ last_name: Brasic
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -17,92 +17,100 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Doctoral Student in Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: The University of Arizona
-    url: https://openai.com/
+    url: https://eller.arizona.edu/departments-research/schools-departments/economics
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: 'mailto:wbrasic@arizona.edu'
+    label: E-mail
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/willbrasic/willbrasic
+    label: GitHub
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/william-brasic/
+    label: LinkedIn
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Industrial Organization
+  - Machine Learning
+  - Applied Econometrics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D., Economics (2027)
+    institution: The University of Arizona
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Research Interests:
+        - Industrial Organization
+        - Machine Learning
+        - Applied Econometrics
+  - area: M.S., Data Intelligence and Applied Economics
+    institution: University of Nevada-Las Vegas
+    date_end: "2022-05-01"
     summary: |
-      GPA: 3.8/4.0
+      Coursework:
+      - Programming in Python, R, and Java
+      - Machine Learning
+      - Econometrics
+      - Statistics
+      - Mathematics
+  - area: B.A., Economics
+    institution: University of Nevada-Las Vegas
+    date_end: "2020-08-01"
+    summary: |
+      Coursework:
+      - Economic Theory
+      - Econometrics
+      - Statistics
+      - Mathematics
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Sole Instructor of Record
+    company_name: The University of Arizona
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-08-01
+    date_end: 2024-12-01
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      Introduction to Econometrics: ECON 418-518
+      - Solely instructed 40+ students on econometrics and machine learning algorithms
+      - Taught students how to use the R language for data science, econometrics, and machine learning
+  - position: Graduate Research Assistant
+    company_name: The University of Arizona
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2024-04-01
+    date_end: 2024-08-01
+    summary: |2-
+      - Worked with a team of doctoral economics students writing code for a project regarding estimating climate damages. Translated STATA code into the R language while eliminating potential bottlenecks.
+      - Constructed multiple forecasting models in the R language for a project aimed at predicting inflation to understand if it is harder to forecast since the COVID-19 pandemic.
+  - position: Graduate Teaching Assistant
+    company_name: The University of Arizona
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-08-01
+    date_end:
+    summary: |2-
+      - In ECON 200: Basic Economic Issues, I was the head teaching assistant leading a small team of 10+ undergraduate, masters, and Ph.D. students in operating this 500+ student course. I also wrote Python code to automate participation recording and uploading exam scores into the online grade portal.
+      - In BNAN 276: Statistical Inference, I held office hours to help students with homework assignments and studying for exams as well as assisted the instructor with grading.
+  - position: Graduate Research Assistant
+    company_name: The University of Nevada-Las Vegas
+    company_url: ''
+    company_logo: '2022-05-01'
+    date_start: 2021-08-01
+    date_end:
+    summary: |2
+      - Designed a data generating process and constructed a Monte Carlo simulation in the R language
+      - The paper that this DGP was created for concerns estimating production functions when output is given exogenously
+
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -113,11 +121,47 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
+      - name: R
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: MATLAB
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: C/C++
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: SQL
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Java
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Julia
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Machine Learning
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: Econometrics
+        description: ''
+        percent: 100
+        icon: chart-bar
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Industrial Organization
+        description: ''
+        percent: 40
+        icon: circle-stack
+      - name: Game Theory
         description: ''
         percent: 40
         icon: circle-stack
@@ -125,59 +169,61 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Exercise
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Watching Sports
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        percent: 60
+        icon: person-simple-walk
+      - name: EDM Concerts
         description: ''
-        percent: 80
-        icon: camera
+        percent: 60
+        icon: person-simple-walk
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Croatian
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: C++ Data Structures & Algorithms
+    url: https://www.udemy.com/course/data-structures-algorithms-cpp/
+    date: '2024-06-11'
+    awarder: Udemy
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      I learned data structures such as linked lists, binary search trees, and hash tables as well as a variety of sorting algorithms including merge sort and quick sort. Moreover, I studied time complexity (Big O, Big Θ, and Big Ω) and how to apply them to each algorithm and data structure.
+  - title: Beginning C++ Programming - From Beginner to Beyond
+    url: https://www.udemy.com/course/beginning-c-plus-plus-programming/?couponCode=ST21MT61124
+    certificate_url: https://www.udemy.com/certificate/UC-0994fc0a-3fd2-4370-98e0-a945c00f2b46/
+    date: '2024-04-16'
+    awarder: Udemy
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      I studied the foundational and advancement concepts of C++ programming. By the end, I was familiar C++ syntax, using object-oriented programming (OOP) within the language, and how to use it for scientific computing.
+  - title: Python Programming Masterclass
+    url: https://www.udemy.com/course/python-the-complete-python-developer-course/?couponCode=ST21MT61124
+    certificate_url: https://www.udemy.com/certificate/UC-2a45daef-ae75-4969-a01d-e0e51c4ba2c8/
+    date: '2021-04-01'
+    awarder: Udemy
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      I learned foundational programming concepts in Python such as flow control, loops, and object-oriented programming (OOP). Furthermore, I became fluent in Python's data science libraries such as NumPy and Pandas.
+  - title: 'R Programming: Advanced Analytics in R for Data Science'
+    url: https://www.udemy.com/course/r-analytics/?couponCode=ST21MT61124
+    certificate_url: https://www.udemy.com/certificate/UC-007def3b-1d97-473d-8c77-dcc5830f6e9d/
+    date: '2020-08-21'
+    awarder: Udemy
+    summary: |
+      I became knowledgeable in how to use the R language for data science and learned more advanced topics such as the apply family of functions.
+
+
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi there! I am a 3rd year doctoral economics student at The University of Arizona. My research interests include industrial organization, machine learning, and applied econometrics. I am currently working on exploring the fascinating dynamics of algorithmic pricing and its effect on competition using reinforcement learning.
