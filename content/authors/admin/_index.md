@@ -114,51 +114,51 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        # percent: 80
         icon: code-bracket
       - name: R
         description: ''
-        percent: 80
+        # percent: 80
         icon: code-bracket
       - name: MATLAB
         description: ''
-        percent: 80
+        # percent: 80
         icon: code-bracket
       - name: C/C++
         description: ''
-        percent: 80
+        # percent: 80
         icon: code-bracket
       - name: SQL
         description: ''
-        percent: 80
+        # percent: 80
         icon: code-bracket
       - name: Java
         description: ''
-        percent: 80
+        # percent: 80
         icon: code-bracket
       - name: Julia
         description: ''
-        percent: 80
+        # percent: 80
         icon: code-bracket
       - name: Machine Learning
         description: ''
-        percent: 100
+        # percent: 100
         icon: chart-bar
       - name: Econometrics
         description: ''
-        percent: 100
+        # percent: 100
         icon: chart-bar
       - name: Data Science
         description: ''
-        percent: 100
+        # percent: 100
         icon: chart-bar
       - name: Industrial Organization
         description: ''
-        percent: 40
+        # percent: 40
         icon: circle-stack
       - name: Game Theory
         description: ''
-        percent: 40
+        # percent: 40
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -166,15 +166,15 @@ skills:
     items:
       - name: Exercise
         description: ''
-        percent: 60
+        # percent: 60
         icon: person-simple-walk
       - name: Watching Sports
         description: ''
-        percent: 60
+        # percent: 60
         icon: person-simple-walk
       - name: EDM Concerts
         description: ''
-        percent: 60
+        # percent: 60
         icon: person-simple-walk
 
 languages:

@@ -480,7 +480,7 @@ renders as
 
 
 
-&lt;div id=&#34;chart-486195237&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-952318746&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -498,7 +498,7 @@ renders as
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-486195237&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-952318746&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -785,6 +785,14 @@ data.head()
   &lt;/span&gt; Python&lt;/p&gt;
 &lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Education, Experience, &amp; Skills</title>
+      <link>https://willbrasic.github.io/experience/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://willbrasic.github.io/experience/</guid>
+      <description></description>
     </item>
     
     <item>
