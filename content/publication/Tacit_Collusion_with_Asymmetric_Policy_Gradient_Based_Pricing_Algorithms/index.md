@@ -34,8 +34,8 @@ abstract: "Algorithms are increasingly taking precedence over humans in the pric
 summary: I explore the collusive capacity of asymmetric policy gradient-based pricing algorithms acting in a continuous action space and their ability to transfer this collusive power to unknown environments.
 
 tags:
-  - Deep Reinforcement Learning
   - Industrial Organization
+  - Reinforcement Learning
   - Game Theory
 
 # Display this page in the Featured widget?

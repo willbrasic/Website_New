@@ -211,10 +211,17 @@ awards:
   - title: 'R Programming: Advanced Analytics in R for Data Science'
     url: https://www.udemy.com/course/r-analytics/?couponCode=ST21MT61124
     certificate_url: https://www.udemy.com/certificate/UC-007def3b-1d97-473d-8c77-dcc5830f6e9d/
-    date: '2020-08-21'
+    date: '2020-09-01'
     awarder: Udemy
     summary: |
-      I became knowledgeable in how to use the R language for data science and learned more advanced topics such as the apply family of functions.
+      I became knowledgeable in advanced topics used in R for data science.
+  - title: 'R Programming A-Z: R for Data Science'
+    url: https://www.udemy.com/course/r-programming/?couponCode=ACCAGE0923
+    certificate_url: https://www.udemy.com/certificate/UC-f35e9550-6f3a-4e39-aece-cd7819076d30/
+    date: '2020-09-01'
+    awarder: Udemy
+    summary: |
+      I learned the fundamentals of using R for data science.
 
 
 ---
