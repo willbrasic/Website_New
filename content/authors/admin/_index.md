@@ -75,7 +75,7 @@ work:
     date_end: 2024-12-01
     summary: |2-
       Introduction to Econometrics: ECON 418-518
-      - Solely instructed 40+ students on econometrics and machine learning algorithms
+      - Solely instructed 25+ students on econometrics and machine learning algorithms
       - Taught students how to use the R language for data science, econometrics, and machine learning
   - position: Graduate Research Assistant
     company_name: The University of Arizona

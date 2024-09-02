@@ -17,7 +17,7 @@ featured: true
 
 ## Welcome!
 
-This is the course website for **Introduction to Econometrics: ECON 418-518.001** at **The University of Arizona**. Here, you will be able to access the **lecture slides** and **homeworks** for the entire course along with **R code** used to teach the language. For the syllabus, click here: <a href="/ECON_418-518_Syllabus/ECON_418-518_Syllabus.pdf" target="_blank">Syllabus</a>.
+This is the course website for **Introduction to Econometrics: ECON 418-518.001** at **The University of Arizona**. Here, you will be able to access the **lecture slides** and **homeworks** for the entire course along with **R code** used to teach the language. For the syllabus, click here: <a href="/ECON_418-518_Syllabus/ECON_418-518_Syllabus_1.pdf" target="_blank">Syllabus</a>.
 
 This course will provide you with a comprehensive introduction to **econometrics**, a crucial tool for identifying causal effects. We will start by understanding the basics of econometrics and reviewing the essential mathematical concepts necessary for success in this course. Following this, we will delve into the fundamental building blocks of econometrics, focusing on simple and multiple linear regression using ordinary least squares. We will explore the assumptions underlying the linear model, discuss the consequences of violating these assumptions, and learn techniques to address these issues. Additionally, we will go beyond linear regression to cover more advanced econometric estimators.
 
@@ -36,7 +36,11 @@ On this page, you'll find some examples of the types of technical content that c
 
 Below are the **lecture slides** associated with ***Introductory Econometrics: A Modern Approach*** by Jeffrey M. Wooldridge.
 
-1. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_Matrix_Algebra.pdf" target="_blank">Matrix Algebra</a>
+1. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_E_01_Intro_to_Econometrics.pdf" target="_blank">Introduction to Econometrics</a>
+2. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_Math_Review.pdf" target="_blank">Math Review</a>
+3. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_E_02_SLR.pdf" target="_blank">Simple Linear Regression</a>
+4. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_Matrix_Algebra_1.pdf" target="_blank">Matrix Algebra</a>
+5. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_E_03_MLR.pdf" target="_blank">Multiple Linear Regression</a>
 
 Below are the lecture slides associated with ***Introduction to Statistical Learning with Applications in R*** by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
 
@@ -50,7 +54,12 @@ Below are the **homeworks** associated with the course
 
 Below is the **R code** associated with the course
 
-1. <a href="/ECON_418-518_R_Code/ECON_418-518_R_Tutorial.html" target="_blank">R Tutorial</a>
+1. <a href="/ECON_418-518_R_Code/ECON_418-518_R_Tutorial_1.html" target="_blank">R Tutorial</a>
+2. <a href="/ECON_418-518_R_Code/ECON_418-518_Math_Review_Code.html" target="_blank">Math Review</a>
+3. <a href="/ECON_418-518_R_Code/ECON_418-518_E_02_SLR_Code.html" target="_blank">Simple Linear Regression</a>
+4. <a href="/ECON_418-518_R_Code/ECON_418-518_Matrix_Algebra_Code.html" target="_blank">Matrix Algebra</a>
+5. <a href="/ECON_418-518_R_Code/ECON_418-518_E_03_MLR_Code.html" target="_blank">Multiple Linear Regression</a>
+
 
 
 

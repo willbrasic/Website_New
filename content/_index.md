@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: /CV/Brasic_William_CV_V1.pdf
+        url: /CV/Brasic_William_CV_V2.pdf
     design:
       css_class: dark
       background:
