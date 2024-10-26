@@ -1,5 +1,5 @@
 ---
-title: 'Tacit Collusion with Asymmetric Policy Gradient-Based Pricing Algorithms'
+title: 'Tacit Algorithmic Collusion when Platforms Use Recommendation Systems'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,7 +13,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2024-09-01T00:00:00Z'
+date: '2024-10-26T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -26,12 +26,12 @@ publishDate: '2017-01-01T00:00:00Z'
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+# publication_short: In *ICW*
 
-abstract: "Algorithms are increasingly taking precedence over humans in the pricing of goods and services, empowering firms to swiftly respond to market shifts with unparalleled precision. The current experimental algorithmic pricing literature as solely investigated the collusive capacity of either: (1) slow tabular-based reinforcement learning algorithms, (2) algorithms restricted to dealing with discrete action spaces, or (3) entirely homogeneous AI systems. Additionally, studies have largely avoided transfer learning: the ability of a trained reinforcement learning-based pricing algorithm agent to transfer knowledge from the learning environment to a potentially different ecosystem. Skeptics of tacit algorithmic collusion argue that these voids diminish the practical plausibility of this phenomenon. The first part of this paper shows that two state-of-the-art asymmetric deep reinforcement learning algorithms, Proximal Policy Optimization (PPO) and Soft Actor Critic (SAC), acting in a Bertrand-Markov pricing game with continuous action spaces converge to anti-competitive policies in a much shorter time than that previously reported. These collusive outcomes are sustained through the implementation of learned trigger strategies. Subsequently, the latter section shows that these algorithms can be trained in one environment and successfully transfer this knowledge to similarly related environments retaining supracompetitive outcomes."
+abstract: "Algorithmic pricing has drawn significant attention from economists, legal scholars, and antitrust officials due to its growing use across various industries and evidence of their ability to tacitly collude. Additionally, platforms that connect producers with consumers are increasingly utilizing AI-based recommendation systems (RSs) to determine which products to display to which users. In this paper, we explore the potential for collusion between algorithms engaged in pricing competition on platforms, where both the pricing and recommendation systems rely on reinforcement learning (RL). This study demonstrates that firms employing algorithmic pricing can obtain anti-competitive outcomes even when acting on a platform using an AI-based RSs, although the collusive capacity is inhibited."
 
 # Summary. An optional shortened abstract.
-summary: I explore the collusive capacity of asymmetric policy gradient-based pricing algorithms acting in a continuous action space and their ability to transfer this collusive power to unknown environments.
+summary: I study a platform’s ability to mitigate algorithmic collusive tendencies via the use of an AI-based recommendation system.
 
 tags:
   - Industrial Organization

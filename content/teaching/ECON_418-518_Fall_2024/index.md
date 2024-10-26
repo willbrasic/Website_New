@@ -17,7 +17,7 @@ featured: true
 
 ## Welcome!
 
-This is the course website for **Introduction to Econometrics: ECON 418-518.001** at **The University of Arizona**. Here, you will be able to access the **lecture slides** and **homeworks** for the entire course along with **R code** used to teach the language. For the syllabus, click here: <a href="/ECON_418-518_Syllabus/ECON_418-518_Syllabus_1.pdf" target="_blank">Syllabus</a>.
+This is the course website for **Introduction to Econometrics: ECON 418-518.001** at **The University of Arizona** in-person during the **Fall 2024** semester. Here, you will be able to access the **lecture slides** and **homeworks** for the entire course along with **R code** used to teach the language. For the syllabus, click here: <a href="/ECON_418-518_Syllabus/ECON_418-518_Syllabus_1.pdf" target="_blank">Syllabus</a>.
 
 This course will provide you with a comprehensive introduction to **econometrics**, a crucial tool for identifying causal effects. We will start by understanding the basics of econometrics and reviewing the essential mathematical concepts necessary for success in this course. Following this, we will delve into the fundamental building blocks of econometrics, focusing on simple and multiple linear regression using ordinary least squares. We will explore the assumptions underlying the linear model, discuss the consequences of violating these assumptions, and learn techniques to address these issues. Additionally, we will go beyond linear regression to cover more advanced econometric estimators.
 
@@ -38,9 +38,18 @@ Below are the **lecture slides** associated with ***Introductory Econometrics: A
 
 1. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_E_01_Intro_to_Econometrics.pdf" target="_blank">Introduction to Econometrics</a>
 2. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_Math_Review.pdf" target="_blank">Math Review</a>
-3. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_E_02_SLR.pdf" target="_blank">Simple Linear Regression</a>
+3. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_E_02_SLR_1.pdf" target="_blank">Simple Linear Regression (SLR)</a>
 4. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_Matrix_Algebra_1.pdf" target="_blank">Matrix Algebra</a>
-5. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_E_03_MLR.pdf" target="_blank">Multiple Linear Regression</a>
+5. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_E_03_MLR.pdf" target="_blank">Multiple Linear Regression (MLR)</a>
+6. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_E_04_Inference.pdf" target="_blank">Inference</a>
+7. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_E_05_Asymptotics.pdf" target="_blank">Asymptotics</a>
+8. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_E_06_MLR_Model.pdf" target="_blank">MLR Model Selection</a>
+9. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_E_07_Qual_Info.pdf" target="_blank">Qualitative Information</a>
+10. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_E_08_Hetero.pdf" target="_blank">Heteroskedasticity</a>
+11. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_E_09_MLR_Issues.pdf" target="_blank">MLR Issues</a>
+12. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_E_13_14_Panel.pdf" target="_blank">Panel Data Estimators</a>
+
+
 
 Below are the lecture slides associated with ***Introduction to Statistical Learning with Applications in R*** by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
 
@@ -48,18 +57,26 @@ Below are the lecture slides associated with ***Introduction to Statistical Lear
 
 ## Homeworks
 
-Below are the **homeworks** associated with the course
+Below are the **homeworks** associated with the course.
+
+1. <a href="/ECON_418-518_HW/ECON_418-518_HW1_Instructions.pdf" target="_blank">Homework 1 Instructions</a>
 
 ## R Code
 
-Below is the **R code** associated with the course
+Below are the **R codes** associated with the course.
 
 1. <a href="/ECON_418-518_R_Code/ECON_418-518_R_Tutorial_1.html" target="_blank">R Tutorial</a>
 2. <a href="/ECON_418-518_R_Code/ECON_418-518_Math_Review_Code.html" target="_blank">Math Review</a>
-3. <a href="/ECON_418-518_R_Code/ECON_418-518_E_02_SLR_Code.html" target="_blank">Simple Linear Regression</a>
+3. <a href="/ECON_418-518_R_Code/ECON_418-518_E_02_SLR_Code.html" target="_blank">Simple Linear Regression (SLR)</a>
 4. <a href="/ECON_418-518_R_Code/ECON_418-518_Matrix_Algebra_Code.html" target="_blank">Matrix Algebra</a>
-5. <a href="/ECON_418-518_R_Code/ECON_418-518_E_03_MLR_Code.html" target="_blank">Multiple Linear Regression</a>
-
+5. <a href="/ECON_418-518_R_Code/ECON_418-518_E_03_MLR_Code.html" target="_blank">Multiple Linear Regression (MLR)</a>
+6. <a href="/ECON_418-518_R_Code/ECON_418-518_E_04_Inference_Code.html" target="_blank">Inference</a>
+7. <a href="/ECON_418-518_R_Code/ECON_418-518_E_05_Asymptotics_Code.html" target="_blank">Asymptotics</a>
+8. <a href="/ECON_418-518_R_Code/ECON_418-518_E_06_MLR_Model_Code.html" target="_blank">MLR Model Selection</a>
+9. <a href="/ECON_418-518_R_Code/ECON_418-518_E_07_Qual_Info_Code.html" target="_blank">Qualitative Information</a>
+10. <a href="/ECON_418-518_R_Code/ECON_418-518_E_08_Hetero_Code.html" target="_blank">Heteroskedasticity</a>
+11. <a href="/ECON_418-518_R_Code/ECON_418-518_E_09_MLR_Issues_Code.html" target="_blank">MLR Issues</a>
+12. <a href="/ECON_418-518_R_Code/ECON_418-518_E_13_14_Panel_Code.html" target="_blank">Panel Data Estimators</a>
 
 
 

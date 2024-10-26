@@ -75,7 +75,7 @@ work:
     date_end: 2024-12-01
     summary: |2-
       Introduction to Econometrics: ECON 418-518
-      - Solely instructed 25+ students on econometrics and machine learning algorithms
+      - Solely instructed 20+ students on econometrics and machine learning algorithms
       - Taught students how to use the R language for data science, econometrics, and machine learning
   - position: Graduate Research Assistant
     company_name: The University of Arizona
@@ -93,6 +93,7 @@ work:
     date_start: 2022-08-01
     date_end:
     summary: |2-
+      - In ECON 502B: Computations Methods and Dynamic Models in Economics, I held weekly lab sessions to instruct first-year doctoral students on implementing dynamic models using numerical computing in Julia and Python. Furthermore, I held weekly office hours to assist students with course materials.
       - In ECON 200: Basic Economic Issues, I was the head teaching assistant leading a small team of 10+ undergraduate, masters, and Ph.D. students in operating this 500+ student course. I also wrote Python code to automate participation recording and uploading exam scores into the online grade portal.
       - In BNAN 276: Statistical Inference, I held office hours to help students with homework assignments and studying for exams as well as assisted the instructor with grading.
   - position: Graduate Research Assistant
@@ -128,15 +129,15 @@ skills:
         description: ''
         # percent: 80
         icon: code-bracket
+      - name: Julia
+        description: ''
+        # percent: 80
+        icon: code-bracket
       - name: SQL
         description: ''
         # percent: 80
         icon: code-bracket
       - name: Java
-        description: ''
-        # percent: 80
-        icon: code-bracket
-      - name: Julia
         description: ''
         # percent: 80
         icon: code-bracket
@@ -228,4 +229,4 @@ awards:
 
 ## About Me
 
-Hi there! I am a 3rd year doctoral economics student at The University of Arizona. My research interests include industrial organization, machine learning, and applied econometrics. I am currently working on exploring the fascinating dynamics of algorithmic pricing and its effect on competition using reinforcement learning.
+I am a third-year doctoral economics student at The University of Arizona. My research interests include industrial organization, machine learning, and applied econometrics.

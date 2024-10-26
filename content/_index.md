@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: /CV/Brasic_William_CV_V2.pdf
+        url: /CV/Brasic_William_CV_3.pdf
     design:
       css_class: dark
       background:
@@ -35,15 +35,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research interests include industrial organization, machine learning, and applied econometrics. I am greatly interested in the advancements of AI and its impact on economics. I am currently working on constructing a deep reinforcement learning model to assess algorithmic price fixing.
-
-        Please reach out to collaborate 😃
+        My research interests include industrial organization, machine learning, and applied econometrics. My current research investigates the effects of pricing algorithms on competition.  Broadly, I am interested in understanding the implications of emerging technologies, such as machine learning, on market dynamics and consumer welfare.
     design:
       columns: '1'
   - block: collection
     id: papers
     content:
-      title: Working Papers
+      title: Working Papers and Works in Progress
       filters:
         folders:
           - publication

@@ -2,7 +2,7 @@
 title: "When Asymmetric Pricing Algorithms Collide"
 authors:
 - admin
-date: "2024-06-10T00:00:00Z"
+date: "2024-10-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication: ""
 publication_short: ""
 
-abstract: Algorithms are increasingly superseding humans in the pricing of goods and services, enabling firms to swiftly adapt to shifting market dynamics with greater precision. Despite the widespread adoption of these algorithms, there remains a scarcity of knowledge regarding their specific configurations and their impact on competition. I investigate algorithmic heterogeneity to assess whether asymmetric reinforcement learning-based pricing algorithms can effectively learn to engage in tacit collusion within a repeated Bertrand-Markov pricing environment. My analysis reveals that diverse algorithms can indeed learn to tacitly collude, consistently setting prices above competitive levels and sustaining such supracometitive outcomes via the implementation of learned trigger strategies. This practice results in enhanced firm profitability, while concurrently diminishing consumer welfare.
+abstract: Algorithms are increasingly superseding humans in the pricing of goods and services, enabling firms to adapt to shifting market dynamics with greater precision. Despite the widespread adoption of these algorithms, there remains a scarcity of knowledge regarding their specific configurations and their impact on competition. I assess whether asymmetric reinforcement learning-based pricing algorithms can learn to engage in tacit collusion within a repeated Bertrand-Markov pricing environment. My analysis reveals that diverse algorithms can indeed learn to tacitly collude, consistently setting and sustaining prices above competitive levels. This practice results in enhanced firm profitability, while concurrently diminishing consumer welfare.
 
 
 # Summary. An optional shortened abstract.
@@ -32,8 +32,8 @@ featured: true
 
 links:
 # - name: Custom Link
-  # url: http://example.org
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url: http://example.org
+url_pdf: "https://raw.githubusercontent.com/willbrasic/Asymmetric_Multi-Agent_Reinforcement_Learning_Pricing_Competition/main/When_Assymetric_Pricing_Algorithms_Collide.pdf"
 url_code: "https://github.com/willbrasic/Asymmetric_Multi-Agent_Reinforcement_Learning_Pricing_Competition"
 # url_dataset: '#'
 # url_poster: '#'
