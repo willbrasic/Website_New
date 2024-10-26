@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research interests include industrial organization, machine learning, and applied econometrics. My current research investigates the effects of pricing algorithms on competition.  Broadly, I am interested in understanding the implications of emerging technologies, such as machine learning, on market dynamics and consumer welfare.
+        My current research investigates the effects of pricing algorithms on competition.  Broadly, I am interested in understanding the implications of emerging technologies, such as machine learning, on market dynamics and consumer welfare.
     design:
       columns: '1'
   - block: collection
