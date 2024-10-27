@@ -76,7 +76,7 @@ Below are the **R codes** associated with the course.
 9. <a href="/ECON_418-518_R_Code/ECON_418-518_E_07_Qual_Info_Code.html" target="_blank">Qualitative Information</a>
 10. <a href="/ECON_418-518_R_Code/ECON_418-518_E_08_Hetero_Code.html" target="_blank">Heteroskedasticity</a>
 11. <a href="/ECON_418-518_R_Code/ECON_418-518_E_09_MLR_Issues_Code.html" target="_blank">MLR Issues</a>
-12. <a href="/ECON_418-518_R_Code/ECON_418-518_E_13_14_Panel_Code.html" target="_blank">Panel Data Estimators</a>
+12. <a href="/ECON_418-518_R_Code/ECON_418-518_E_13_14_Panel_Code_1.html" target="_blank">Panel Data Estimators</a>
 
 
 
