@@ -33,7 +33,7 @@ featured: true
 links:
 # - name: Custom Link
 # url: http://example.org
-url_pdf: "https://raw.githubusercontent.com/willbrasic/Asymmetric_Multi-Agent_Reinforcement_Learning_Pricing_Competition/main/When_Assymetric_Pricing_Algorithms_Collide.pdf"
+url_pdf: "https://drive.google.com/file/d/16_MDj0XxlBbZNuRJk2YgLF9y8vM463HY/view?usp=sharing"
 url_code: "https://github.com/willbrasic/Asymmetric_Multi-Agent_Reinforcement_Learning_Pricing_Competition"
 # url_dataset: '#'
 # url_poster: '#'
