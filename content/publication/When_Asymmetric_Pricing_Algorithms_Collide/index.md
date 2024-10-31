@@ -32,8 +32,8 @@ featured: true
 
 links:
 #- name: Custom Link
-url: /Papers/When_Asymmetric_Pricing_Algorithms_Collide_V1.pdf
-# url_pdf: "https://drive.google.com/file/d/16_MDj0XxlBbZNuRJk2YgLF9y8vM463HY/view?usp=sharing"
+# url: /Papers/When_Asymmetric_Pricing_Algorithms_Collide_V2.pdf
+url_pdf: /Research/When_Asymmetric_Pricing_Algorithms_Collide_V2.pdf
 url_code: "https://github.com/willbrasic/Asymmetric_Multi-Agent_Reinforcement_Learning_Pricing_Competition"
 # url_dataset: '#'
 # url_poster: '#'
