@@ -44,9 +44,9 @@
     
     <item>
       <title>When Asymmetric Pricing Algorithms Collide</title>
-      <link>http://localhost:1313/publication/when_asymmetric_pricing_algorithms_collide/</link>
+      <link>http://localhost:1313/Papers/When_Asymmetric_Pricing_Algorithms_Collide.pdf</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/when_asymmetric_pricing_algorithms_collide/</guid>
+      <guid>http://localhost:1313/Papers/When_Asymmetric_Pricing_Algorithms_Collide.pdf</guid>
       <description></description>
     </item>
     
@@ -505,7 +505,7 @@ renders as
 
 
 
-&lt;div id=&#34;chart-592847136&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-315278964&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -523,7 +523,7 @@ renders as
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-592847136&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-315278964&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

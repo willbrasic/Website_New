@@ -1,6 +1,6 @@
 ---
 title: Working Papers and Works in Progress
-cms_exclude: true
+cms_exclude: false
 
 # View.
 view: citation
