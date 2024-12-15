@@ -17,7 +17,7 @@ featured: true
 
 ## Welcome!
 
-This is the course website for **Introduction to Econometrics: ECON 418-518.001** at **The University of Arizona** in-person during the **Fall 2024** semester. Here, you will be able to access the **lecture slides** and **homeworks** for the entire course along with **R code** used to teach the language. For the syllabus, click here: <a href="/ECON_418-518_Syllabus/ECON_418-518_Syllabus_1.pdf" target="_blank">Syllabus</a>.
+This is the course website for **Introduction to Econometrics: ECON 418-518.001** at **The University of Arizona** in-person during the **Fall 2024** semester. Here, you will be able to access the **lecture slides**, **homeworks**, and **exams** for the entire course along with **R code** used to teach the language. For the syllabus, click here: <a href="/ECON_418-518_Syllabus/ECON_418-518_Syllabus_1.pdf" target="_blank">Syllabus</a>. For the welcome leter, click here: <a href="/ECON_418-518_Syllabus/ECON_418-518_Welcome_Letter.pdf" target="_blank">Welcome Letter</a>
 
 This course will provide you with a comprehensive introduction to **econometrics**, a crucial tool for identifying causal effects. We will start by understanding the basics of econometrics and reviewing the essential mathematical concepts necessary for success in this course. Following this, we will delve into the fundamental building blocks of econometrics, focusing on simple and multiple linear regression using ordinary least squares. We will explore the assumptions underlying the linear model, discuss the consequences of violating these assumptions, and learn techniques to address these issues. Additionally, we will go beyond linear regression to cover more advanced econometric estimators.
 
@@ -48,18 +48,32 @@ Below are the **lecture slides** associated with ***Introductory Econometrics: A
 10. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_E_08_Hetero.pdf" target="_blank">Heteroskedasticity</a>
 11. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_E_09_MLR_Issues.pdf" target="_blank">MLR Issues</a>
 12. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_E_13_14_Panel.pdf" target="_blank">Panel Data Estimators</a>
+13. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_E/ECON_418-518_E_17_BRM.pdf" target="_blank">Binary Response Models</a>
 
 
 
 Below are the lecture slides associated with ***Introduction to Statistical Learning with Applications in R*** by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
 
-1.
+1. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_ISL/ECON_418-518_ISL_02_Intro_to_ML.pdf" target="_blank">Introduction to Machine Learning</a>
+2. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_ISL/ECON_418-518_ISL_05_RM.pdf" target="_blank">Resampling Methods</a>
+3. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_ISL/ECON_418-518_ISL_06_SE.pdf" target="_blank">Shrinkage Estimators</a>
+4. <a href="/ECON_418-518_Lecture_Slides/ECON_418-518_Lecture_Slides_ISL/ECON_418-518_ISL_08_RF.pdf" target="_blank">Random Forests</a>
 
 ## Homeworks
 
 Below are the **homeworks** associated with the course.
 
 1. <a href="/ECON_418-518_HW/ECON_418-518_HW1_Instructions.pdf" target="_blank">Homework 1 Instructions</a>
+2. <a href="/ECON_418-518_HW/ECON_418-518_HW2_Instructions.pdf" target="_blank">Homework 2 Instructions</a>
+3. <a href="/ECON_418-518_HW/ECON_418-518_HW3_Instructions.pdf" target="_blank">Homework 3 Instructions</a>
+
+## Exams
+
+Below are the **exams** associated with the course.
+
+1. <a href="/ECON_418-518_Exams/ECON_418-518_Exam_1.pdf" target="_blank">Exam 1</a>
+2. <a href="/ECON_418-518_Exams/ECON_418-518_Exam_2.pdf" target="_blank">Exam 2</a>
+3. <a href="/ECON_418-518_Exams/ECON_418-518_Exam_3.pdf" target="_blank">Exam 3</a>
 
 ## R Code
 
@@ -77,6 +91,10 @@ Below are the **R codes** associated with the course.
 10. <a href="/ECON_418-518_R_Code/ECON_418-518_E_08_Hetero_Code.html" target="_blank">Heteroskedasticity</a>
 11. <a href="/ECON_418-518_R_Code/ECON_418-518_E_09_MLR_Issues_Code.html" target="_blank">MLR Issues</a>
 12. <a href="/ECON_418-518_R_Code/ECON_418-518_E_13_14_Panel_Code_1.html" target="_blank">Panel Data Estimators</a>
+13. <a href="/ECON_418-518_R_Code/ECON_418-518_E_17_BRM_Code.html" target="_blank">Binary Response Models</a>
+14. <a href="/ECON_418-518_R_Code/ECON_418-518_ISL_05_RM_Code.html" target="_blank">Resampling Methods</a>
+15. <a href="/ECON_418-518_R_Code/ECON_418-518_ISL_06_SE_Code.html" target="_blank">Shrinkage Estimators</a>
+16. <a href="/ECON_418-518_R_Code/ECON_418-518_ISL_08_RF_Code.html" target="_blank">Random Forests</a>
 
 
 
