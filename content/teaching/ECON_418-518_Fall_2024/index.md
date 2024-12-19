@@ -14,10 +14,11 @@ image:
 featured: true
 ---
 
+For the course evaluations, click here: <a href="/ECON_418-518_Course_Evaluations/ECON_418-518_Course_Evaluations.pdf" target="_blank">Course Evaluations</a>.
 
 ## Welcome!
 
-This is the course website for **Introduction to Econometrics: ECON 418-518.001** at **The University of Arizona** in-person during the **Fall 2024** semester. Here, you will be able to access the **lecture slides**, **homeworks**, and **exams** for the entire course along with **R code** used to teach the language. For the syllabus, click here: <a href="/ECON_418-518_Syllabus/ECON_418-518_Syllabus_1.pdf" target="_blank">Syllabus</a>. For the welcome leter, click here: <a href="/ECON_418-518_Syllabus/ECON_418-518_Welcome_Letter.pdf" target="_blank">Welcome Letter</a>
+This is the course website for **Introduction to Econometrics: ECON 418-518.001** at **The University of Arizona** in-person during the **Fall 2024** semester. Here, you will be able to access the **lecture slides**, **homeworks**, and **exams** for the entire course along with **R code** used to teach the language. For the syllabus, click here: <a href="/ECON_418-518_Syllabus/ECON_418-518_Syllabus_1.pdf" target="_blank">Syllabus</a>. For the welcome letter, click here: <a href="/ECON_418-518_Syllabus/ECON_418-518_Welcome_Letter.pdf" target="_blank">Welcome Letter</a>.
 
 This course will provide you with a comprehensive introduction to **econometrics**, a crucial tool for identifying causal effects. We will start by understanding the basics of econometrics and reviewing the essential mathematical concepts necessary for success in this course. Following this, we will delve into the fundamental building blocks of econometrics, focusing on simple and multiple linear regression using ordinary least squares. We will explore the assumptions underlying the linear model, discuss the consequences of violating these assumptions, and learn techniques to address these issues. Additionally, we will go beyond linear regression to cover more advanced econometric estimators.
 
