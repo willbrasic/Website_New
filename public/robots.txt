@@ -1,4 +1,3 @@
 User-agent: *
-Disallow:
 
-Sitemap: https://williambrasic.com/sitemap.xml
+Sitemap: http://localhost:1313/sitemap.xml
