@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Applied Econometrics | William Brasic</title>
+    <link>http://localhost:1313/tags/applied-econometrics/</link>
+      <atom:link href="http://localhost:1313/tags/applied-econometrics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Applied Econometrics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu78c25ba02d6ba5bd1874b4343a6a876d_24431_512x512_fill_lanczos_center_3.png</url>
+      <title>Applied Econometrics</title>
+      <link>http://localhost:1313/tags/applied-econometrics/</link>
+    </image>
+    
+    <item>
+      <title>Financial Literacy and Senior-Aged Food Insecurity</title>
+      <link>http://localhost:1313/publication/financial_literacy_and_senior-aged_food_insecurity/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/financial_literacy_and_senior-aged_food_insecurity/</guid>
+      <description>&lt;!-- This work is largely driven by the results in my [previous paper](/publication/When_Asymmetric_Pricing_Algorithms_Collide/) on algorithmic pricing fixing. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

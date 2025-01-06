@@ -17,7 +17,25 @@
       <link>http://localhost:1313/teaching/econ_418-518_fall_2024/</link>
       <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/econ_418-518_fall_2024/</guid>
-      <description>&lt;p&gt;For the course evaluations, click here: &lt;a href=&#34;http://localhost:1313/ECON_418-518_Course_Evaluations/ECON_418-518_Course_Evaluations.pdf&#34; target=&#34;_blank&#34;&gt;Course Evaluations&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;course-evaluations&#34;&gt;Course Evaluations&lt;/h2&gt;
+&lt;p&gt;For the full course evaluations, click here: &lt;a href=&#34;http://localhost:1313/ECON_418-518_Course_Evaluations/ECON_418-518_Course_Evaluations.pdf&#34; target=&#34;_blank&#34;&gt;Course Evaluations&lt;/a&gt;. Here are selected student evaluations:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I started this course in tears, but it ended up becoming one of my favorite classes! It wouldn&amp;rsquo;t have been possible without the professor&amp;rsquo;s support.&lt;/li&gt;
+&lt;li&gt;I have never had an instructor grade as quickly or have as much availability to assist students outside of class. Will replied via Slack incredibly fast and always addressed concerns/questions in-class, via D2L announcements, and slack. All the materials were super well organized, and the syllabus and class schedule was actually true to the class. Deadlines and expectations were very clear.&lt;/li&gt;
+&lt;li&gt;Great instructor that genuinely knows and cares about the material and his students.&lt;/li&gt;
+&lt;li&gt;Brasic has a lot of promise to become a very strong lecturer and already demonstrates his potential as an academic and professional.&lt;/li&gt;
+&lt;li&gt;Will is a competent and professional instructor. The course was challenging, but rewarding.&lt;/li&gt;
+&lt;li&gt;Will was a great professor. Appreciated his lectures.&lt;/li&gt;
+&lt;li&gt;I liked how there were so many practical aspects to this course. It is definitely something I brag about to recruiters.&lt;/li&gt;
+&lt;li&gt;I liked the difficulty of the class. This was the hardest class I have taken, but the most interesting and relevant to the industry in which I want to pursue a career. The professor was also very understanding and flexible and helped us learn the content in the best way possible.&lt;/li&gt;
+&lt;li&gt;I thought that it was a very challenging course that is very applicable to the real world and that was appreciated.&lt;/li&gt;
+&lt;li&gt;The professor had a very helpful nature and kind attitude that helped foster a fantastic learning environment.&lt;/li&gt;
+&lt;li&gt;The professor wasn&amp;rsquo;t afraid to dive deeper into the math which was very beneficial.&lt;/li&gt;
+&lt;li&gt;Will Brasic was a good teacher. He was willing to adapt and change parts of the course as it was happening, such as changing the format of the final exam.&lt;/li&gt;
+&lt;li&gt;I really enjoyed how much practice and engagement with the material I was given in the course. I was acclimatized to course content and a lot of the learning.&lt;/li&gt;
+&lt;li&gt;He was a very nice grader and truly tried to get you to understand the content.&lt;/li&gt;
+&lt;li&gt;Really enjoyed the class &amp;amp; feel that it gave me some valuable skills.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2 id=&#34;welcome&#34;&gt;Welcome!&lt;/h2&gt;
 &lt;p&gt;This is the course website for &lt;strong&gt;Introduction to Econometrics: ECON 418-518.001&lt;/strong&gt; at &lt;strong&gt;The University of Arizona&lt;/strong&gt; in-person during the &lt;strong&gt;Fall 2024&lt;/strong&gt; semester. Here, you will be able to access the &lt;strong&gt;lecture slides&lt;/strong&gt;, &lt;strong&gt;homeworks&lt;/strong&gt;, and &lt;strong&gt;exams&lt;/strong&gt; for the entire course along with &lt;strong&gt;R code&lt;/strong&gt; used to teach the language. For the syllabus, click here: &lt;a href=&#34;http://localhost:1313/ECON_418-518_Syllabus/ECON_418-518_Syllabus_1.pdf&#34; target=&#34;_blank&#34;&gt;Syllabus&lt;/a&gt;. For the welcome letter, click here: &lt;a href=&#34;http://localhost:1313/ECON_418-518_Syllabus/ECON_418-518_Welcome_Letter.pdf&#34; target=&#34;_blank&#34;&gt;Welcome Letter&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This course will provide you with a comprehensive introduction to &lt;strong&gt;econometrics&lt;/strong&gt;, a crucial tool for identifying causal effects. We will start by understanding the basics of econometrics and reviewing the essential mathematical concepts necessary for success in this course. Following this, we will delve into the fundamental building blocks of econometrics, focusing on simple and multiple linear regression using ordinary least squares. We will explore the assumptions underlying the linear model, discuss the consequences of violating these assumptions, and learn techniques to address these issues. Additionally, we will go beyond linear regression to cover more advanced econometric estimators.&lt;/p&gt;

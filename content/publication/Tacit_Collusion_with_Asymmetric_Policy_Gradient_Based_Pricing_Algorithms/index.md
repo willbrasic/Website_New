@@ -13,7 +13,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2024-10-26T00:00:00Z'
+date: '2025-01-06T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -35,8 +35,8 @@ summary: I study a platform’s ability to mitigate algorithmic collusive tenden
 
 tags:
   - Industrial Organization
-  - Reinforcement Learning
-  - Game Theory
+  - Antitrust and Competition Policy
+  - Applied Machine Learning
 
 # Display this page in the Featured widget?
 featured: true

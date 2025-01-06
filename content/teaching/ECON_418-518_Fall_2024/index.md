@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Econometrics: ECON 418-518 (Fall 2024)"
 summary: The University of Arizona
-date: 2024-07-10
+date: 2024-12-13
 type: docs
 math: false
 tags:
@@ -15,7 +15,7 @@ featured: true
 ---
 ## Course Evaluations
 
-For the full course evaluations, click here: <a href="/ECON_418-518_Course_Evaluations/ECON_418-518_Course_Evaluations.pdf" target="_blank">Course Evaluations</a>. Here are selected student evaluations:
+For the full course evaluations, click here: <a href="/ECON_418-518_Course_Evaluations/ECON_418-518_Course_Evaluations.pdf" target="_blank">Course Evaluations</a>. Here are a few selected student evaluations:
 
 1. I started this course in tears, but it ended up becoming one of my favorite classes! It wouldn't have been possible without the professor's support.
 2. I have never had an instructor grade as quickly or have as much availability to assist students outside of class. Will replied via Slack incredibly fast and always addressed concerns/questions in-class, via D2L announcements, and slack. All the materials were super well organized, and the syllabus and class schedule was actually true to the class. Deadlines and expectations were very clear.

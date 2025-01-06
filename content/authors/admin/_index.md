@@ -35,8 +35,9 @@ profiles:
 
 interests:
   - Industrial Organization
-  - Machine Learning
+  - Antitrust and Competition Policy
   - Applied Econometrics
+  - Applied Machine Learning
 
 education:
   - area: Ph.D., Economics (2027)
@@ -44,27 +45,28 @@ education:
     summary: |
       Research Interests:
         - Industrial Organization
-        - Machine Learning
+        - Antitrust and Competition Policy
         - Applied Econometrics
+        - Applied Machine Learning
   - area: M.S., Data Intelligence and Applied Economics
     institution: University of Nevada-Las Vegas
     date_end: "2022-05-01"
-    summary: |
-      Coursework:
-      - Programming in Python, R, and Java
-      - Machine Learning
-      - Econometrics
-      - Statistics
-      - Mathematics
+    # summary: |
+      # Coursework:
+      # - Programming in Python, R, and Java
+      # - Machine Learning
+      # - Econometrics
+      # - Statistics
+      # - Mathematics
   - area: B.A., Economics
     institution: University of Nevada-Las Vegas
     date_end: "2020-08-01"
-    summary: |
-      Coursework:
-      - Economic Theory
-      - Econometrics
-      - Statistics
-      - Mathematics
+    # summary: |
+      # Coursework:
+      # - Economic Theory
+      # - Econometrics
+      # - Statistics
+      # - Mathematics
 
 work:
   - position: Sole Instructor of Record
@@ -77,6 +79,16 @@ work:
       Introduction to Econometrics: ECON 418-518
       - Solely instructed 20+ students on econometrics and machine learning algorithms
       - Taught students how to use the R language for data science, econometrics, and machine learning
+  - position: Graduate Teaching Assistant
+    company_name: The University of Arizona
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-08-01
+    date_end:
+    summary: |2-
+      - In ECON 502B: Computations Methods and Dynamic Models in Economics, I held weekly lab sessions to instruct first-year doctoral students on implementing dynamic models using numerical computing in Python. Furthermore, I held weekly office hours to assist students with course materials.
+      - In ECON 200: Basic Economic Issues, I was the head teaching assistant leading a small team of 10+ undergraduate, masters, and Ph.D. students in operating this 500+ student course. I also wrote Python code to automate participation recording and uploading exam scores into the online grade portal.
+      - In BNAN 276: Statistical Inference, I held office hours to help students with homework assignments and studying for exams as well as assisted the instructor with grading.
   - position: Graduate Research Assistant
     company_name: The University of Arizona
     company_url: ''
@@ -86,46 +98,34 @@ work:
     summary: |2-
       - Worked with a team of doctoral economics students writing code for a project regarding estimating climate damages. Translated STATA code into the R language while eliminating potential bottlenecks.
       - Constructed multiple forecasting models in the R language for a project aimed at predicting inflation to understand if it is harder to forecast since the COVID-19 pandemic.
-  - position: Graduate Teaching Assistant
-    company_name: The University of Arizona
+  - position: Graduate Research Assistant
+    company_name: University of Nevada-Las Vegas
     company_url: ''
     company_logo: ''
-    date_start: 2022-08-01
-    date_end:
-    summary: |2-
-      - In ECON 502B: Computations Methods and Dynamic Models in Economics, I held weekly lab sessions to instruct first-year doctoral students on implementing dynamic models using numerical computing in Julia and Python. Furthermore, I held weekly office hours to assist students with course materials.
-      - In ECON 200: Basic Economic Issues, I was the head teaching assistant leading a small team of 10+ undergraduate, masters, and Ph.D. students in operating this 500+ student course. I also wrote Python code to automate participation recording and uploading exam scores into the online grade portal.
-      - In BNAN 276: Statistical Inference, I held office hours to help students with homework assignments and studying for exams as well as assisted the instructor with grading.
-  - position: Graduate Research Assistant
-    company_name: The University of Nevada-Las Vegas
-    company_url: ''
-    company_logo: '2022-05-01'
     date_start: 2021-08-01
-    date_end:
-    summary: |2
-      - Designed a data generating process and constructed a Monte Carlo simulation in the R language
-      - The paper that this DGP was created for concerns estimating production functions when output is given exogenously
-
-
+    date_end: 2022-05-01
+    summary: |2-
+      - Designed a data generating process and constructed a Monte Carlo simulation in the R language.
+      - The paper that this DGP was created for concerns estimating production functions when output is given exogenously.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
+      - name: MATLAB
+        description: ''
+        # percent: 80
+        icon: code-bracket
+      - name: C++
+        description: ''
+        # percent: 80
+        icon: code-bracket
       - name: Python
         description: ''
         # percent: 80
         icon: code-bracket
       - name: R
-        description: ''
-        # percent: 80
-        icon: code-bracket
-      - name: MATLAB
-        description: ''
-        # percent: 80
-        icon: code-bracket
-      - name: C/C++
         description: ''
         # percent: 80
         icon: code-bracket
@@ -229,4 +229,4 @@ awards:
 
 ## About Me
 
-I am a third-year doctoral economics student at The University of Arizona. My research interests include industrial organization, machine learning, and applied econometrics.
+Hi! I am a third-year doctoral economics student at The University of Arizona. My research interests include industrial organization, antitrust and competition policy, applied econometrics, and applied machine learning.

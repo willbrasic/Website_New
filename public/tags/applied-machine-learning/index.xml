@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Applied Machine Learning | William Brasic</title>
+    <link>http://localhost:1313/tags/applied-machine-learning/</link>
+      <atom:link href="http://localhost:1313/tags/applied-machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Applied Machine Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu78c25ba02d6ba5bd1874b4343a6a876d_24431_512x512_fill_lanczos_center_3.png</url>
+      <title>Applied Machine Learning</title>
+      <link>http://localhost:1313/tags/applied-machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>When Asymmetric Pricing Algorithms Collide</title>
+      <link>http://localhost:1313/publication/when_asymmetric_pricing_algorithms_collide/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/when_asymmetric_pricing_algorithms_collide/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
