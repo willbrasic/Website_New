@@ -42,12 +42,12 @@ interests:
 education:
   - area: Ph.D., Economics (2027)
     institution: The University of Arizona
-    summary: |
-      Research Interests:
-        - Industrial Organization
-        - Antitrust and Competition Policy
-        - Applied Econometrics
-        - Applied Machine Learning
+    # summary: |
+      # Research Interests:
+        # - Industrial Organization
+        # - Antitrust and Competition Policy
+        # - Applied Econometrics
+        # - Applied Machine Learning
   - area: M.S., Data Intelligence and Applied Economics
     institution: University of Nevada-Las Vegas
     date_end: "2022-05-01"
@@ -129,38 +129,6 @@ skills:
         description: ''
         # percent: 80
         icon: code-bracket
-      - name: Julia
-        description: ''
-        # percent: 80
-        icon: code-bracket
-      - name: SQL
-        description: ''
-        # percent: 80
-        icon: code-bracket
-      - name: Java
-        description: ''
-        # percent: 80
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        # percent: 100
-        icon: chart-bar
-      - name: Econometrics
-        description: ''
-        # percent: 100
-        icon: chart-bar
-      - name: Data Science
-        description: ''
-        # percent: 100
-        icon: chart-bar
-      - name: Industrial Organization
-        description: ''
-        # percent: 40
-        icon: circle-stack
-      - name: Game Theory
-        description: ''
-        # percent: 40
-        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -193,40 +161,30 @@ awards:
     url: https://www.udemy.com/course/data-structures-algorithms-cpp/
     date: '2024-06-11'
     awarder: Udemy
-    summary: |
-      I learned data structures such as linked lists, binary search trees, and hash tables as well as a variety of sorting algorithms including merge sort and quick sort. Moreover, I studied time complexity (Big O, Big Θ, and Big Ω) and how to apply them to each algorithm and data structure.
   - title: Beginning C++ Programming - From Beginner to Beyond
     url: https://www.udemy.com/course/beginning-c-plus-plus-programming/?couponCode=ST21MT61124
     certificate_url: https://www.udemy.com/certificate/UC-0994fc0a-3fd2-4370-98e0-a945c00f2b46/
     date: '2024-04-16'
     awarder: Udemy
-    summary: |
-      I studied the foundational and advancement concepts of C++ programming. By the end, I was familiar C++ syntax, using object-oriented programming (OOP) within the language, and how to use it for scientific computing.
   - title: Python Programming Masterclass
     url: https://www.udemy.com/course/python-the-complete-python-developer-course/?couponCode=ST21MT61124
     certificate_url: https://www.udemy.com/certificate/UC-2a45daef-ae75-4969-a01d-e0e51c4ba2c8/
     date: '2021-04-01'
     awarder: Udemy
-    summary: |
-      I learned foundational programming concepts in Python such as flow control, loops, and object-oriented programming (OOP). Furthermore, I became fluent in Python's data science libraries such as NumPy and Pandas.
   - title: 'R Programming: Advanced Analytics in R for Data Science'
     url: https://www.udemy.com/course/r-analytics/?couponCode=ST21MT61124
     certificate_url: https://www.udemy.com/certificate/UC-007def3b-1d97-473d-8c77-dcc5830f6e9d/
     date: '2020-09-01'
     awarder: Udemy
-    summary: |
-      I became knowledgeable in advanced topics used in R for data science.
   - title: 'R Programming A-Z: R for Data Science'
     url: https://www.udemy.com/course/r-programming/?couponCode=ACCAGE0923
     certificate_url: https://www.udemy.com/certificate/UC-f35e9550-6f3a-4e39-aece-cd7819076d30/
     date: '2020-09-01'
     awarder: Udemy
-    summary: |
-      I learned the fundamentals of using R for data science.
 
 
 ---
 
 ## About Me
 
-Hi! I am a third-year doctoral economics student at The University of Arizona. My research interests include industrial organization, antitrust and competition policy, applied econometrics, and applied machine learning.
+Hi! My name is Will Brasic and I am a third-year doctoral economics student at The University of Arizona.

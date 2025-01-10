@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: /CV/Brasic_William_CV_4.pdf
+        url: /CV/Brasic_William_CV_5.pdf
     design:
       css_class: dark
       background:
@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My current research investigates the effects of pricing algorithms on competition.  Broadly, I am interested in understanding the implications of emerging technologies, such as machine learning, on market dynamics as well as antitrust and competition policy.
+        My research investigates the effects of algorithms on competition.  Broadly, I am interested in understanding the implications of emerging technologies, such as machine learning, on market dynamics as well as antitrust and competition policy.
     design:
       columns: '1'
   - block: collection

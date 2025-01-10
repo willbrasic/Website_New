@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/industrial-organization/</link>
       <atom:link href="http://localhost:1313/tags/industrial-organization/index.xml" rel="self" type="application/rss+xml" />
     <description>Industrial Organization</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu78c25ba02d6ba5bd1874b4343a6a876d_24431_512x512_fill_lanczos_center_3.png</url>
       <title>Industrial Organization</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Tacit Algorithmic Collusion when Platforms Use Recommendation Systems</title>
       <link>http://localhost:1313/publication/tacit_collusion_with_asymmetric_policy_gradient_based_pricing_algorithms/</link>
-      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/tacit_collusion_with_asymmetric_policy_gradient_based_pricing_algorithms/</guid>
       <description>&lt;!-- This work is largely driven by the results in my [previous paper](/publication/When_Asymmetric_Pricing_Algorithms_Collide/) on algorithmic pricing fixing. --&gt;
 </description>
@@ -24,7 +24,7 @@
     <item>
       <title>When Asymmetric Pricing Algorithms Collide</title>
       <link>http://localhost:1313/publication/when_asymmetric_pricing_algorithms_collide/</link>
-      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/when_asymmetric_pricing_algorithms_collide/</guid>
       <description></description>
     </item>
