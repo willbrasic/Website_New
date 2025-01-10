@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research investigates the effects of algorithms on competition.  Broadly, I am interested in understanding the implications of emerging technologies, such as machine learning, on market dynamics as well as antitrust and competition policy.
+        My research investigates the effects of artificial intelligence on competition.  Broadly, I am interested in understanding the implications of emerging technologies, such as machine learning, on market dynamics as well as antitrust and competition policy.
     design:
       columns: '1'
   - block: collection
