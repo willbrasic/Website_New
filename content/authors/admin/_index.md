@@ -76,7 +76,7 @@ work:
     date_start: 2024-08-01
     date_end: 2024-12-01
     summary: |2-
-      Introduction to Econometrics: ECON 418-518
+      ECON 418-518: Introduction to Econometrics
       - Solely instructed 20+ students on econometrics and machine learning algorithms
       - Taught students how to use the R language for data science, econometrics, and machine learning
   - position: Graduate Teaching Assistant
