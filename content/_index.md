@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: /CV/Brasic_William_CV_5.pdf
+        url: /CV/Brasic_William_CV_20250723.pdf
     design:
       css_class: dark
       background:
@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research uses tools from industrial organization to answer questions within artificial intelligence, health economics, and antitrust and competition policy. 
+        My research uses tools from industrial organization to answer questions within artificial intelligence, health economics, and antitrust and competition policy.
     design:
       columns: '1'
   - block: collection

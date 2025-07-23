@@ -34,7 +34,7 @@
     </item>
     
     <item>
-      <title>A Dynamic Structural Model of Rational Addiction with Time Inconsistent Preferences: Evaluating Tobacco Product Flavor Bans and Nicotine Caps</title>
+      <title>A Dynamic Structural Model of Rational Addiction: Evaluating Tobacco Product Flavor Bans and Nicotine Caps</title>
       <link>http://localhost:1313/publication/jmp/</link>
       <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/jmp/</guid>
@@ -561,7 +561,7 @@ renders as
 
 
 
-&lt;div id=&#34;chart-872439516&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-854631297&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -579,7 +579,7 @@ renders as
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-872439516&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-854631297&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

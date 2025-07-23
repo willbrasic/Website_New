@@ -243,4 +243,4 @@ awards:
 
 ## About Me
 
-Hi! My name is Will Brasic, and I am a fourth-year doctoral economics student at The University of Arizona.
+Hi! My name is Will Brasic, and I am a fourth-year doctoral student in economics at The University of Arizona.
