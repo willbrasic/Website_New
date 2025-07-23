@@ -35,9 +35,9 @@ profiles:
 
 interests:
   - Industrial Organization
+  - Digital Economics and AI
+  - Health Economics
   - Antitrust and Competition Policy
-  - Applied Econometrics
-  - Applied Machine Learning
 
 education:
   - area: Ph.D., Economics (2027)
@@ -187,4 +187,4 @@ awards:
 
 ## About Me
 
-Hi! My name is Will Brasic and I am a third-year doctoral economics student at The University of Arizona.
+Hi! My name is Will Brasic and I am a fourth-year doctoral economics student at The University of Arizona.

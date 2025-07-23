@@ -34,15 +34,6 @@
     </item>
     
     <item>
-      <title>Tacit Algorithmic Collusion when Platforms Use Recommendation Systems</title>
-      <link>http://localhost:1313/publication/tacit_collusion_with_asymmetric_policy_gradient_based_pricing_algorithms/</link>
-      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tacit_collusion_with_asymmetric_policy_gradient_based_pricing_algorithms/</guid>
-      <description>&lt;!-- This work is largely driven by the results in my [previous paper](/publication/When_Asymmetric_Pricing_Algorithms_Collide/) on algorithmic pricing fixing. --&gt;
-</description>
-    </item>
-    
-    <item>
       <title>When Asymmetric Pricing Algorithms Collide</title>
       <link>http://localhost:1313/publication/when_asymmetric_pricing_algorithms_collide/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
@@ -552,7 +543,7 @@ renders as
 
 
 
-&lt;div id=&#34;chart-486291375&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-297853146&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -570,7 +561,7 @@ renders as
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-486291375&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-297853146&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

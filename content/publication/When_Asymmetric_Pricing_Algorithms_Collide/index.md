@@ -25,8 +25,8 @@ summary: I investigate algorithmic heterogeneity to assess whether asymmetric re
 
 tags:
 - Industrial Organization
+- Digital Economics and AI
 - Antitrust and Competition Policy
-- Applied Machine Learning
 
 featured: true
 
