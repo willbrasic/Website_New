@@ -34,6 +34,15 @@
     </item>
     
     <item>
+      <title>A Dynamic Structural Model of Rational Addiction with Time Inconsistent Preferences: Evaluating Tobacco Product Flavor Bans and Nicotine Caps</title>
+      <link>http://localhost:1313/publication/jmp/</link>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jmp/</guid>
+      <description>&lt;!-- This work is largely driven by the results in my [previous paper](/publication/When_Asymmetric_Pricing_Algorithms_Collide/) on algorithmic pricing fixing. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>When Asymmetric Pricing Algorithms Collide</title>
       <link>http://localhost:1313/publication/when_asymmetric_pricing_algorithms_collide/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
@@ -543,7 +552,7 @@ renders as
 
 
 
-&lt;div id=&#34;chart-297853146&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-438615297&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -561,7 +570,7 @@ renders as
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-297853146&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-438615297&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

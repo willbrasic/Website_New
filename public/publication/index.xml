@@ -5,12 +5,21 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Working Papers and Works in Progress</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu78c25ba02d6ba5bd1874b4343a6a876d_24431_512x512_fill_lanczos_center_3.png</url>
       <title>Working Papers and Works in Progress</title>
       <link>http://localhost:1313/publication/</link>
     </image>
+    
+    <item>
+      <title>A Dynamic Structural Model of Rational Addiction with Time Inconsistent Preferences: Evaluating Tobacco Product Flavor Bans and Nicotine Caps</title>
+      <link>http://localhost:1313/publication/jmp/</link>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jmp/</guid>
+      <description>&lt;!-- This work is largely driven by the results in my [previous paper](/publication/When_Asymmetric_Pricing_Algorithms_Collide/) on algorithmic pricing fixing. --&gt;
+</description>
+    </item>
     
     <item>
       <title>When Asymmetric Pricing Algorithms Collide</title>
