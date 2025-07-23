@@ -49,7 +49,7 @@ education:
         # - Applied Econometrics
         # - Applied Machine Learning
   - area: M.S., Data Intelligence and Applied Economics
-    institution: University of Nevada-Las Vegas
+    institution: University of Nevada - Las Vegas
     date_end: "2022-05-01"
     # summary: |
       # Coursework:
@@ -59,7 +59,7 @@ education:
       # - Statistics
       # - Mathematics
   - area: B.A., Economics
-    institution: University of Nevada-Las Vegas
+    institution: University of Nevada - Las Vegas
     date_end: "2020-08-01"
     # summary: |
       # Coursework:
@@ -69,6 +69,28 @@ education:
       # - Mathematics
 
 work:
+  - position: Associate Extern
+    company_name: Analysis Group
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-07-14
+    date_end: 2025-07-17
+    summary: |2-
+      - Selected as 1 of 14 externs (4% acceptance rate) for Analysis Group's inaugural Associate Externship Program in Boston, MA
+      - Conducted qualitative research on a high-profile legal complaint involving a prior carriage dispute, synthesizing key facts and litigation context
+      - Analyzed subscriber and financial data using Excel and R to estimate damages, uncover trends, and deliver actionable insights to support strategic recommendations during a mock case
+      - Shadowed Associates to gain direct exposure to economic consulting workflows, including live case discussions, client deliverables, and team collaboration
+  - position: Research Assistant
+    company_name: The University of Arizona
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-09-01
+    date_end:
+    summary: |2-
+      Arizona Residential Utility Consumer Office
+      - Will gather, aggregate, and clean retail electricity consumption and U.S. Census data to analyze energy affordability for Arizona utility customers throughout a variety of locations and socio-economic groups
+      - Will compare energy affordability for Arizona consumers with that of consumers in other states using federal energy survey data to understand how the their situations compare
+      - Will conduct data-driven impact assessments of proposed rate increases to inform expert witness testimony for the defense, projecting damages based on consumer demographics and income
   - position: Sole Instructor of Record
     company_name: The University of Arizona
     company_url: ''
@@ -83,30 +105,22 @@ work:
     company_name: The University of Arizona
     company_url: ''
     company_logo: ''
-    date_start: 2022-08-01
-    date_end:
+    date_start: 2025-01-15
+    date_end: 2025-05-15
     summary: |2-
-      - In ECON 502B: Computations Methods and Dynamic Models in Economics, I held weekly lab sessions to instruct first-year doctoral students on implementing dynamic models using numerical computing in Python. Furthermore, I held weekly office hours to assist students with course materials.
-      - In ECON 200: Basic Economic Issues, I was the head teaching assistant leading a small team of 10+ undergraduate, masters, and Ph.D. students in operating this 500+ student course. I also wrote Python code to automate participation recording and uploading exam scores into the online grade portal.
-      - In BNAN 276: Statistical Inference, I held office hours to help students with homework assignments and studying for exams as well as assisted the instructor with grading.
-  - position: Graduate Research Assistant
+      ECON 502B: Computations Methods and Dynamic Models in Economics
+      - Led weekly lab sessions instructing doctoral students on implementing numerical and dynamic methods in Python
+      - Held weekly office hours to assist students with course materials
+  - position: Graduate Teaching Assistant
     company_name: The University of Arizona
     company_url: ''
     company_logo: ''
-    date_start: 2024-04-01
-    date_end: 2024-08-01
+    date_start: 2022-08-01
+    date_end: 2024-05-01
     summary: |2-
-      - Worked with a team of doctoral economics students writing code for a project regarding estimating climate damages. Translated STATA code into the R language while eliminating potential bottlenecks.
-      - Constructed multiple forecasting models in the R language for a project aimed at predicting inflation to understand if it is harder to forecast since the COVID-19 pandemic.
-  - position: Graduate Research Assistant
-    company_name: University of Nevada-Las Vegas
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-08-01
-    date_end: 2022-05-01
-    summary: |2-
-      - Designed a data generating process and constructed a Monte Carlo simulation in the R language.
-      - The paper that this DGP was created for concerns estimating production functions when output is given exogenously.
+      ECON 200: Basic Economic Issues
+      - Led teams of 10+ undergraduate and graduate students as the head teaching assistant in this 500+ student course
+      - Wrote Python code to automate uploading participation and exam score data, reducing time spent by 93%
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -121,14 +135,47 @@ skills:
         description: ''
         # percent: 80
         icon: code-bracket
-      - name: Python
-        description: ''
-        # percent: 80
-        icon: code-bracket
       - name: R
         description: ''
         # percent: 80
         icon: code-bracket
+      - name: Python
+        description: ''
+        # percent: 80
+        icon: code-bracket
+      - name: Julia
+        description: ''
+        # percent: 80
+        icon: code-bracket
+      - name: SQL
+        description: ''
+        # percent: 80
+        icon: code-bracket
+      - name: Git/GitHub
+        description: ''
+        # percent: 80
+        icon: code-bracket
+      - name: Docker
+        description: ''
+        # percent: 80
+        icon: code-bracket
+      - name: Shell
+        description: ''
+        # percent: 80
+        icon: code-bracket
+      - name: Slurm
+        description: ''
+        # percent: 80
+        icon: code-bracket
+      - name: LaTeX
+        description: ''
+        # percent: 80
+        icon: code-bracket
+      - name: Microsoft Office
+        description: ''
+        # percent: 80
+        icon: code-bracket
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -137,7 +184,7 @@ skills:
         description: ''
         # percent: 60
         icon: person-simple-walk
-      - name: Watching Sports
+      - name: Da Bears
         description: ''
         # percent: 60
         icon: person-simple-walk
@@ -157,6 +204,15 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Ed Zajac Prize for Best Third-Year Paper
+    date: '2025-05-01'
+    awarder: The University of Arizona
+  - title: Steve Manos Prize for Best Second-Year Paper
+    date: '2024-09-01'
+    awarder: The University of Arizona
+  - title: Data Science Roots for Resilience Fellowship
+    date: '2024-12-01'
+    awarder: The University of Arizona
   - title: C++ Data Structures & Algorithms
     url: https://www.udemy.com/course/data-structures-algorithms-cpp/
     date: '2024-06-11'
@@ -187,4 +243,4 @@ awards:
 
 ## About Me
 
-Hi! My name is Will Brasic and I am a fourth-year doctoral economics student at The University of Arizona.
+Hi! My name is Will Brasic, and I am a fourth-year doctoral economics student at The University of Arizona.

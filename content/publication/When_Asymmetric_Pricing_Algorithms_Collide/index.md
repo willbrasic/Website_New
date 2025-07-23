@@ -2,7 +2,7 @@
 title: "When Asymmetric Pricing Algorithms Collide"
 authors:
 - admin
-date: "2025-01-06T00:00:00Z"
+date: "2025-07-23T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

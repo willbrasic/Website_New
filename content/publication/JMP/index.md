@@ -12,7 +12,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2025-07-23T00:00:00Z'
+date: '2025-07-25T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -27,7 +27,7 @@ publishDate: '2017-01-01T00:00:00Z'
 # publication: In *Hugo Blox Builder Conference*
 # publication_short: In *ICW*
 
-abstract: "This paper develops a dynamic structural model of rational addiction to evaluate the long-run impacts of tobacco product flavor bans and nicotine concentration caps. The model incorporates quasi-hyperbolic discounting to capture time-inconsistent preferences, reflecting the behavioral dynamics of nicotine addiction. Using household-level panel data, I estimate the model via pseudo-maximum likelihood and simulate counterfactual policies, including a national flavor ban and the FDA’s proposed nicotine cap on combustible cigarettes. I show that traditional reduced-form methods, such as difference-in-differences, underestimate the long-run effects of such policies by ignoring addiction dynamics. My model accounts for heterogeneity in nicotine preferences, flavor effects, and consumer demographics, providing a framework to assess behavioral spillovers across tobacco products and offering new insights for regulatory design."
+abstract: "This paper develops a dynamic model of rational addiction with quasi-hyperbolic discounting to evaluate flavor bans and nicotine caps. Using household-level panel data, I first present reduced-form evidence of addiction, forward-looking behavior, and the short-run effects of statewide flavor bans to motivate the structural model. Then, I estimate the structural model via pseudo-maximum likelihood, and simulate counterfactual policies such as a national flavor ban and the FDA's 2025 proposed nicotine cap, revealing long-run behavioral responses to such policies. The model accounts for nicotine intake along with heterogeneity in flavor preferences and demographics, offering insights into behavioral spillovers and regulatory design."
 
 # Summary. An optional shortened abstract.
 summary: I construct and estimate a dynamic structural model of rational addiction to evaluate the long-run effects of tobacco product flavor bans and nicotine caps.
