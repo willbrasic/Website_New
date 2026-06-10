@@ -16,11 +16,13 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: CV
         url: /CV/Brasic_William_CV_20260610.pdf
       buttons:
-        - text: Download Job Market Paper
+        - text: Job Market Paper
           url: /Research/JMP_20260611.pdf
+        - text: Teaching Evaluations
+          url: /ECON_418-518_Course_Evaluations/ECON_418-518_Course_Evaluations.pdf
     design:
       css_class: dark
       background:
