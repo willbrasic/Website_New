@@ -35,11 +35,11 @@ abstract: "Food insecurity remains one of the most significant public health con
 summary: We study the causal effect of financial literacy on food insecurity for the senior population using original survey data collect in Clark County Nevada.
 
 tags:
+  - Applied Microeconomics
   - Health Economics
-  - Applied Econometrics
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

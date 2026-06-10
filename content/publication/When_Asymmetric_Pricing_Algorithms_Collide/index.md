@@ -2,7 +2,7 @@
 title: "When Asymmetric Pricing Algorithms Collide"
 authors:
 - admin
-date: "2025-07-23T00:00:00Z"
+date: "2026-06-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,16 +24,16 @@ abstract: Algorithms are increasingly superseding humans in the pricing of goods
 summary: I investigate algorithmic heterogeneity to assess whether asymmetric reinforcement learning-based pricing algorithms can effectively learn to engage in tacit collusion.
 
 tags:
+- Antitrust and Competition Policy
 - Industrial Organization
 - Digital Economics and AI
-- Antitrust and Competition Policy
 
 featured: true
 
 links:
 #- name: Custom Link
 # url: /Papers/When_Asymmetric_Pricing_Algorithms_Collide_V2.pdf
-url_pdf: /Research/When_Asymmetric_Pricing_Algorithms_Collide_20250724.pdf
+# url_pdf: /Research/When_Asymmetric_Pricing_Algorithms_Collide_20250724.pdf
 url_code: "https://github.com/willbrasic/Asymmetric_Multi-Agent_Reinforcement_Learning_Pricing_Competition"
 # url_dataset: '#'
 # url_poster: '#'

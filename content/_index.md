@@ -17,38 +17,39 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: /CV/Brasic_William_CV_20250723.pdf
+        url: /CV/Brasic_William_CV_20260610.pdf
+      buttons:
+        - text: Download Job Market Paper
+          url: /Research/JMP_20260611.pdf
     design:
       css_class: dark
       background:
         color: black
-        image:
+        # image:
           # Add your image background to `assets/media/`.
-          filename: background.jpg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+          # filename: background.jpg
+          # filters:
+          #   brightness: 1.0
+          # size: cover
+          # position: center
+          # parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
-        My research uses tools from industrial organization to answer questions within artificial intelligence, health economics, and antitrust and competition policy.
+        <p style="color: white;">My research uses industrial organization and applied microeconomics to answer questions within artificial intelligence, health economics, and antitrust and competition policy. More specifically, I have done work on the effects of pricing algorithms on competition and my job market paper investigates the effects of flavored e-cigarette policies on addiction and consumer behavior via a dynamic structural model.</p>
     design:
       columns: '1'
-  - block: collection
-    id: papers
+
+  - block: markdown
     content:
-      title: Working Papers and Works in Progress
-      filters:
-        folders:
-          - publication
-        featured_only: true
+      title: 'My Hobbies'
+      subtitle: ''
+      text: |-
+        <p style="color: white;">When I'm not doing economics, you can usually find me at the gym working on my calisthenics and running, or talking about the Chicago Bears 🐻⬇️.</p>
     design:
-      view: article-grid
-      columns: 2
+      columns: '1'
 
   # - block: collection
     #content:

@@ -13,7 +13,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2025-07-24T00:00:00Z'
+date: '2026-06-10T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -25,18 +25,18 @@ publishDate: '2017-01-01T00:00:00Z'
 # publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-# publication: In *Hugo Blox Builder Conference*
+publication: '*Revise and Resubmit at The International Journal of Industrial Organization*'
 # publication_short: In *ICW*
 
 abstract: "AI-powered pricing algorithms raise concerns about supracompetitive outcomes without explicit coordination. Meanwhile, digital platforms use recommendation systems (RSs) to influence product visibility. This paper models Bertrand-Markov price competition in a differentiated product market with heterogeneous consumers, where both sellers' pricing and the platform's recommendations are AI-driven. The findings show that RSs can autonomously inhibit algorithmic anticompetitive conduct, resulting in prices even below the Bertrand-Nash benchmark. The results hold when the platform only prioritizes profits, as well as with variations in consumer heterogeneity, market conditions, and underlying learning parameters."
 
 # Summary. An optional shortened abstract.
-summary: I study a platform’s ability to mitigate algorithmic collusive tendencies via the use of an AI-based recommendation system.
+summary: I study a platform’s ability to mitigate algorithmic collusive tendencies via the use of an AI-based recommendation system. This paper is a R&R at The International Journal of Industrial Organization.
 
 tags:
+  - Antitrust and Competition Policy
   - Industrial Organization
   - Digital Economics and AI
-  - Antitrust and Competition Policy
 
 # Display this page in the Featured widget?
 featured: true

@@ -1,5 +1,5 @@
 ---
-title: 'A Dynamic Structural Model of Rational Addiction: Evaluating Tobacco Product Flavor Bans and Nicotine Caps'
+title: 'Hooked on Flavor: Addiction, Present Bias, and the Consequences of E-Cigarette Flavor Policy'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -12,7 +12,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2025-07-25T00:00:00Z'
+date: '2026-06-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -27,18 +27,19 @@ publishDate: '2017-01-01T00:00:00Z'
 # publication: In *Hugo Blox Builder Conference*
 # publication_short: In *ICW*
 
-abstract: "This paper develops a dynamic model of rational addiction with quasi-hyperbolic discounting to evaluate flavor bans and nicotine caps. Using household-level panel data, I first present reduced-form evidence of habit-persistence, forward-looking behavior, and the short-run effects of statewide flavor bans to motivate the structural model. Then, I estimate the structural model via pseudo-maximum likelihood, and simulate counterfactual policies such as a national flavor ban and the FDA’s 2025 proposed nicotine cap, revealing long-run behavioral responses to such policies. The model accounts for nicotine intake along with heterogeneity in flavor preferences and demographics, offering insights into behavioral spillovers and regulatory design."
+abstract: "Flavored e-cigarettes have captured millions of users who are disproportionately teens and young adults, while bans on them have triggered one of the most highly controversial regulatory debates in recent nicotine public health policy. To evaluate e-cigarette flavor policy, I develop and estimate a dynamic discrete choice model of cigarette and e-cigarette demand with forward-looking, present-biased consumers, featuring nicotine-driven addiction stocks, a flavored habit stock, and heterogeneous flavor preferences that vary with household age composition. Using NielsenIQ scanner data for 2021--2023, I first present reduced-form evidence documenting strong habit persistence, moderate cross-category substitution patterns, and heightened flavored e-cigarette demand among households with younger members. I then estimate the dynamic model via a two-stage pseudo-maximum-likelihood procedure and simulate counterfactual flavor policies under rational and time-inconsistent discounting. Three findings emerge. First, the feared cigarette substitution backfire does not materialize: the dominant response to a ban is market exit rather than switching to cigarettes, driven primarily by strong flavor preferences. Second, enforcement scope is salient: restricting the ban to only FDA-authorized brands captures only 84% of the addiction reduction, with the gap driven by substitution to unauthorized products. Third, a 0.50/mL excise tax achieves 92% of the ban's addiction reduction at less than half the welfare cost. Present bias does not alter this policy ranking, but reduces the true welfare cost of both instruments by converting part of the measured loss into an internality correction."
 
 # Summary. An optional shortened abstract.
-summary: I construct and estimate a dynamic structural model of rational addiction to evaluate the long-run effects of tobacco product flavor bans and nicotine caps.
+summary: I construct and estimate a dynamic structural model to evaluate the effects of e-cigarette flavor policies on addiction and consumer behavior.
 
 tags:
+  - Applied Microeconomics
   - Industrial Organization
   - Health Economics
-  - Applied Econometrics
+  - Job Market Paper
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

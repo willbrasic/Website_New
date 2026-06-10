@@ -1,5 +1,5 @@
 ---
-title: "ECON 418-518: Introduction to Econometrics (Fall 2024)"
+title: "Introduction to Econometrics (Fall 2024)"
 summary: The University of Arizona
 date: 2024-12-13
 type: docs
@@ -17,21 +17,14 @@ featured: true
 
 For the full course evaluations, click here: <a href="/ECON_418-518_Course_Evaluations/ECON_418-518_Course_Evaluations.pdf" target="_blank">Course Evaluations</a>. Here are a few selected student evaluations:
 
-1. I started this course in tears, but it ended up becoming one of my favorite classes! It wouldn't have been possible without the professor's support.
-2. I have never had an instructor grade as quickly or have as much availability to assist students outside of class. Will replied via Slack incredibly fast and always addressed concerns/questions in-class, via D2L announcements, and slack. All the materials were super well organized, and the syllabus and class schedule was actually true to the class. Deadlines and expectations were very clear.
-3. Great instructor that genuinely knows and cares about the material and his students.
+1. This was the hardest class I have taken, but the most interesting and relevant to the industry in which I want to pursue a career. The professor was also very understanding and flexible and helped us learn the content in the best way possible.
+2. I started this course in tears but it ended up becoming one of my favorite classes! It wouldn't have been possible without the professor's support.
+3. I have never had an instructor grade as quickly or have as much availability to assist students outside of class. Will replied via Slack incredibly fast and always addressed concerns in-class, via D2L announcements, and Slack. All the materials were super well organized, and the syllabus and class schedule was actually true to the class. Deadlines and expectations were very clear.
 4. Brasic has a lot of promise to become a very strong lecturer and already demonstrates his potential as an academic and professional.
-5. Will is a competent and professional instructor. The course was challenging, but rewarding.
-6. Will was a great professor. Appreciated his lectures.
+5. The professor had a very helpful nature and kind attitude that helped foster a fantastic learning environment.
+6. Great instructor that genuinely knows and cares about the material and his students.
 7. I liked how there were so many practical aspects to this course. It is definitely something I brag about to recruiters.
 8. I liked the difficulty of the class. This was the hardest class I have taken, but the most interesting and relevant to the industry in which I want to pursue a career. The professor was also very understanding and flexible and helped us learn the content in the best way possible.
-9. I thought that it was a very challenging course that is very applicable to the real world and that was appreciated.
-10. The professor had a very helpful nature and kind attitude that helped foster a fantastic learning environment.
-11. The professor wasn't afraid to dive deeper into the math which was very beneficial.
-12. Will Brasic was a good teacher. He was willing to adapt and change parts of the course as it was happening, such as changing the format of the final exam.
-13. I really enjoyed how much practice and engagement with the material I was given in the course. I was acclimatized to course content and a lot of the learning.
-14. He was a very nice grader and truly tried to get you to understand the content.
-15. Really enjoyed the class & feel that it gave me some valuable skills.
 
 ## Welcome!
 
