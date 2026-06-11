@@ -527,7 +527,8 @@
   a.no-underline span,
   .hb-attachment-link,
   .author-name,
-  .text-xl.font-bold {
+  .text-xl.font-bold,
+  .skills-icon {
     color: rgb(255, 165, 0) !important;
   }
   a.no-underline {
@@ -562,13 +563,13 @@
     color: rgb(255, 165, 0) !important;
   }
   .bg-primary-100, .dark\:bg-primary-900 {
-    background-color: rgb(255, 165, 0) !important;
+    background-color: rgb(18, 28, 52) !important;
   }
   ol li::marker, ul li::marker {
     color: rgb(255, 165, 0) !important;
   }
   .text-primary-800, .dark\:text-primary-300 {
-    color: rgb(18, 28, 52) !important;
+    color: rgb(255, 165, 0) !important;
   }
 </style>
 
@@ -1064,7 +1065,7 @@
 
 
 
-<div id="chart-872415369" class="chart"></div>
+<div id="chart-386529174" class="chart"></div>
 <script>
   async function fetchChartJSON() {
     console.debug('Hugo Blox fetching chart JSON...')
@@ -1082,7 +1083,7 @@
 
       fetchChartJSON().then(chart => {
         console.debug('Plotting chart...')
-        window.Plotly.newPlot('chart-872415369', chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot('chart-386529174', chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
