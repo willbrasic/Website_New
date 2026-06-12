@@ -40,7 +40,7 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        <p style="color: white;">My research uses industrial organization and applied microeconomics to answer questions within artificial intelligence, health economics, and antitrust and competition policy. More specifically, I have done work on the effects of pricing algorithms on competition and my job market paper investigates the effects of flavored e-cigarette policies on addiction and consumer behavior via a dynamic structural model.</p>
+        <p style="color: white;">My research applies industrial organization and applied microeconomics to questions in health economics, artificial intelligence, and antitrust and competition policy. My job market paper <a href="/Research/JMP_20260611.pdf" style="color: rgb(255, 165, 0);"><em>Hooked on Flavor: Addiction, Present Bias, and the Consequences of E-Cigarette Flavor Policy</em></a> examines how flavored e-cigarette regulations affect addiction and consumer behavior through a dynamic structural model. I also study the competitive effects of pricing algorithms, with work recognized by awards at The University of Arizona. My paper <a href="/Research/Algorithmic_Pricing_Recommendation_Systems_and_Competition_20250723.pdf" style="color: rgb(255, 165, 0);"><em>Algorithmic Pricing, Recommendation Systems, and Competition</em></a> is currently under a Revise and Resubmit at the International Journal of Industrial Organization.</p>
     design:
       columns: '1'
 
@@ -49,7 +49,7 @@ sections:
       title: 'My Hobbies'
       subtitle: ''
       text: |-
-        <p style="color: white;">When I'm not doing economics, you can usually find me at the gym working on my calisthenics and running, or talking about the Chicago Bears 🐻⬇️.</p>
+        <p style="color: white;">When I'm not doing economics, you can usually find me traveling, at the gym working on my calisthenics and running, or talking about the Chicago Bears 🐻⬇️.</p>
     design:
       columns: '1'
 
