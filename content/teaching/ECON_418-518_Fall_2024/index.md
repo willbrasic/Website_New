@@ -15,16 +15,16 @@ featured: true
 ---
 ## Course Evaluations
 
-For the full course evaluations, click here: <a href="/ECON_418-518_Course_Evaluations/ECON_418-518_Course_Evaluations.pdf" target="_blank">Course Evaluations</a>. Here are a few selected student evaluations:
+For the full course evaluations, click here: <a href="/ECON_418-518_Course_Evaluations/ECON_418-518_Course_Evaluations_Combined.pdf" target="_blank">Course Evaluations</a>. Here are a few selected student evaluations:
 
-1. This was the hardest class I have taken, but the most interesting and relevant to the industry in which I want to pursue a career. The professor was also very understanding and flexible and helped us learn the content in the best way possible.
+1. I have never had an instructor grade as quickly or have as much availability to assist students outside of class. Will replied via Slack incredibly fast and always addressed concerns in-class, via D2L announcements, and Slack. All the materials were super well organized, and the syllabus and class schedule was actually true to the class. Deadlines and expectations were very clear.
 2. I started this course in tears but it ended up becoming one of my favorite classes! It wouldn't have been possible without the professor's support.
-3. I have never had an instructor grade as quickly or have as much availability to assist students outside of class. Will replied via Slack incredibly fast and always addressed concerns in-class, via D2L announcements, and Slack. All the materials were super well organized, and the syllabus and class schedule was actually true to the class. Deadlines and expectations were very clear.
+3. I liked the difficulty of the class. This was the hardest class I have taken, but the most interesting and relevant to the industry in which I want to pursue a career. The professor was also very understanding and flexible and helped us learn the content in the best way possible.
 4. Brasic has a lot of promise to become a very strong lecturer and already demonstrates his potential as an academic and professional.
 5. The professor had a very helpful nature and kind attitude that helped foster a fantastic learning environment.
 6. Great instructor that genuinely knows and cares about the material and his students.
-7. I liked how there were so many practical aspects to this course. It is definitely something I brag about to recruiters.
-8. I liked the difficulty of the class. This was the hardest class I have taken, but the most interesting and relevant to the industry in which I want to pursue a career. The professor was also very understanding and flexible and helped us learn the content in the best way possible.
+7. Will was a great professor. Appreciated his lectures.
+8. Will Brasic was a good teacher. He was willing to adapt and change parts of the course as it was happening, such as changing the format of the final exam.
 
 ## Welcome!
 

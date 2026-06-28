@@ -22,7 +22,7 @@ sections:
         - text: Job Market Paper
           url: /Research/JMP_20260611.pdf
         - text: Teaching Evaluations
-          url: /ECON_418-518_Course_Evaluations/ECON_418-518_Course_Evaluations.pdf
+          url: /ECON_418-518_Course_Evaluations/ECON_418-518_Course_Evaluations_Combined.pdf
     design:
       css_class: dark
       background:
