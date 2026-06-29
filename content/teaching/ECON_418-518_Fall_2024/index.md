@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Econometrics (Fall 2024)"
+title: "ECON 418-518: Introduction to Econometrics (Fall 2024)"
 summary: The University of Arizona
 date: 2024-12-13
 type: page
