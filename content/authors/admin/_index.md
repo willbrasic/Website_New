@@ -40,7 +40,7 @@ interests:
   - Antitrust and Competition Policy
 
 education:
-  - area: Ph.D., Economics
+  - area: Ph.D., Economics (Expected May 2027)
     institution: The University of Arizona
     date_end: "2027-05-01"
     # summary: |
@@ -241,4 +241,4 @@ awards:
 
 ## About Me
 
-Welcome! My name is Will Brasic, and I am a doctoral candidate in economics at The University of Arizona. I am currently on the 2026-2027 job market.
+Welcome! My name is William Brasic, and I am a doctoral candidate in economics at The University of Arizona. I am currently on the 2026-2027 job market.

@@ -2,14 +2,14 @@
 title: "Introduction to Econometrics (Fall 2024)"
 summary: The University of Arizona
 date: 2024-12-13
-type: docs
+type: page
 math: false
 tags:
   - Econometrics
   - Machine Learning
   - R
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: ''
 
 featured: true
 ---
