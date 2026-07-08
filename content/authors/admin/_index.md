@@ -49,6 +49,9 @@ education:
         # - Antitrust and Competition Policy
         # - Applied Econometrics
         # - Applied Machine Learning
+  - area: M.A., Economics
+    institution: The University of Arizona
+    date_end: "2024-05-01"
   - area: M.S., Data Intelligence and Applied Economics
     institution: University of Nevada - Las Vegas
     date_end: "2022-05-01"
@@ -77,10 +80,10 @@ work:
     date_start: 2025-07-14
     date_end: 2025-07-17
     summary: |2-
-      - Selected as 1 of 14 externs (4\% acceptance rate) for Analysis Group's inaugural Associate Externship Program in Boston, MA
-      - Analyzed subscriber and financial data using Excel and R to estimate damages, uncover trends, and deliver actionable insights to support strategic recommendations during a case
-      - Conducted qualitative research on a high-profile legal complaint involving a carriage fee dispute, synthesizing key facts and litigation context
-      - Collaborated with Associates on live case discussions and client deliverables, contributing to economic consulting workflows and team-based project execution
+      - Selected as 1 of 14 externs (4\% acceptance rate) for Analysis Group's inaugural Associate Externship Program
+      - Conducted qualitative research on a high-profile legal complaint involving a carriage fee dispute, synthesizing key facts and the regulatory landscape
+      - Analyzed subscriber and financial data to uncover trends, estimate damages, and deliver actionable insights to support strategic recommendations during a case
+      - Collaborated with Associates on live case discussions and client deliverables, concluding the externship with a team presentation of research findings to Analysis Group colleagues
   - position: Research Assistant
     company_name: The University of Arizona
     company_url: ''
@@ -91,8 +94,8 @@ work:
       Arizona Residential Utility Consumer Office
       - Supported expert witness testimony for <a href="https://www.stanleyscottreynolds.com/" target="_blank" rel="noopener">Professor Stanley Reynolds</a> by conducting data-driven impact assessments of proposed rate increases, projecting damages based on consumer demographics and income
       - Gathered, aggregated, and cleaned 10+ gigabytes of retail electricity billing records and U.S. Census income data to analyze energy affordability for Arizona utility customers across ZIP codes and socio-economic groups
-      - Analyzed federal energy survey data to benchmark Arizona's energy affordability against national averages
-      - Co-authored a white paper documenting energy burden disparities across income groups and geographic areas in Arizona to support regulatory proceedings
+    # - Analyzed federal energy survey data to benchmark Arizona's energy affordability against national averages
+    # - Co-authored a white paper documenting energy burden disparities across income groups and geographic areas in Arizona to support regulatory proceedings
   - position: Sole Instructor of Record
     company_name: The University of Arizona
     company_url: ''
@@ -112,17 +115,17 @@ work:
     summary: |2-
       Basic Economic Issues
       - Led teams of 10+ undergraduate and graduate students as the head teaching assistant in this 500+ student course
-      - Wrote Python code to automate uploading participation and exam score data, reducing time spent by 93%
+      - Coordinated between the course instructor and TAs/preceptors on meetings, deadlines, and deliverables
   - position: Graduate Teaching Assistant
     company_name: The University of Arizona
     company_url: ''
     company_logo: ''
-    date_start: 2025-01-15
-    date_end: 2025-05-15
+    date_start: 2022-08-01
+    date_end: 2027-05-01
     summary: |2-
-      - Computations Methods and Dynamic Models in Economics (Ph.D.)
-      - Industrial and Antitrust Economics
       - Public Sector Economics
+      - Industrial and Antitrust Economics
+      - Computations Methods and Dynamic Models in Economics (<em>Ph.D.</em>)
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -161,6 +164,10 @@ skills:
         description: ''
         # percent: 80
         icon: code-bracket
+      - name: Shell
+        description: ''
+        # percent: 80
+        icon: code-bracket
       - name: Docker
         description: ''
         # percent: 80
@@ -178,6 +185,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Traveling
+        description: ''
+        # percent: 60
+        icon: person-simple-walk
       - name: Calisthenics
         description: ''
         # percent: 60
@@ -205,11 +216,11 @@ awards:
   - title: Ed Zajac Prize for Best Third-Year Paper
     date: '2025-05-01'
     awarder: The University of Arizona
-  - title: Steve Manos Prize for Best Second-Year Paper
-    date: '2024-09-01'
-    awarder: The University of Arizona
   - title: Data Science Roots for Resilience Fellowship
     date: '2024-12-01'
+    awarder: The University of Arizona
+  - title: Steve Manos Prize for Best Second-Year Paper
+    date: '2024-09-01'
     awarder: The University of Arizona
   - title: C++ Data Structures & Algorithms
     url: https://www.udemy.com/course/data-structures-algorithms-cpp/
