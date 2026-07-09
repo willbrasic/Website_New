@@ -13,9 +13,9 @@ image:
 
 featured: true
 ---
-## Course Evaluations
+## Teaching Evaluations
 
-For the full course evaluations, click here: <a href="/ECON_418-518_Course_Evaluations/ECON_418-518_Course_Evaluations_Combined.pdf" target="_blank">Course Evaluations</a>. Here are a few selected student evaluations:
+For the full teaching evaluations, click here: <a href="https://drive.google.com/file/d/1ZtwydBayajGDX8IyMiRtlwb4vzN_QHCQ/view?usp=drive_link" target="_blank">Teaching Evaluations</a>. Here are a few selected student comments:
 
 1. I have never had an instructor grade as quickly or have as much availability to assist students outside of class. Will replied via Slack incredibly fast and always addressed concerns in-class, via D2L announcements, and Slack. All the materials were super well organized, and the syllabus and class schedule was actually true to the class. Deadlines and expectations were very clear.
 2. I started this course in tears but it ended up becoming one of my favorite classes! It wouldn't have been possible without the professor's support.

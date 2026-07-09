@@ -442,7 +442,6 @@
     ],
     "ids": [
       "about-me",
-      "course-evaluations",
       "exams",
       "hide-button",
       "homeworks",
@@ -463,6 +462,7 @@
       "show-button",
       "site-header",
       "teaching",
+      "teaching-evaluations",
       "top",
       "welcome"
     ]

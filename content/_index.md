@@ -17,12 +17,12 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: CV
-        url: /CV/Brasic_William_CV_20260610.pdf
+        url: https://drive.google.com/file/d/16GgBBClxaF0fsSlEhAgO4GYQYbQYjljf/view?usp=drive_link
       buttons:
         - text: Job Market Paper
-          url: /Research/JMP_20260611.pdf
+          url: https://drive.google.com/file/d/1QVyke0nyIxgv5jUvWM3OXV3niEwzh9I5/view?usp=drive_link
         - text: Teaching Evaluations
-          url: /ECON_418-518_Course_Evaluations/ECON_418-518_Course_Evaluations_Combined.pdf
+          url: https://drive.google.com/file/d/1ZtwydBayajGDX8IyMiRtlwb4vzN_QHCQ/view?usp=drive_link
     design:
       css_class: dark
       background:
@@ -40,7 +40,7 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        <p style="color: white;">My research uses industrial organization and applied microeconomics to questions in health economics, artificial intelligence, and antitrust and competition policy. My job market paper <a href="/Research/JMP_20260611.pdf" style="color: rgb(255, 165, 0);"><em>Hooked on Flavor: Addiction, Present Bias, and the Consequences of E-Cigarette Flavor Policy</em></a> examines how flavored e-cigarette regulations affect addiction and consumer behavior through a dynamic structural model. I also study the competitive effects of pricing algorithms, with works recognized by awards at The University of Arizona. My paper <a href="/Research/Algorithmic_Pricing_Recommendation_Systems_and_Competition_20250723.pdf" style="color: rgb(255, 165, 0);"><em>Algorithmic Pricing, Recommendation Systems, and Competition</em></a> is currently under a Revise and Resubmit at the International Journal of Industrial Organization.</p>
+        <p style="color: white;">My research uses industrial organization and applied microeconomics to questions in health economics, artificial intelligence, and antitrust and competition policy. My job market paper <a href="https://drive.google.com/file/d/1QVyke0nyIxgv5jUvWM3OXV3niEwzh9I5/view?usp=drive_link" target="_blank" rel="noopener" style="color: rgb(255, 165, 0);"><em>Hooked on Flavor: Addiction, Present Bias, and the Consequences of E-Cigarette Flavor Policy</em></a> examines how flavored e-cigarette regulations affect addiction and consumer behavior through a dynamic structural model. I also study the competitive effects of pricing algorithms, with works recognized by awards at The University of Arizona. My paper <a href="https://drive.google.com/file/d/1m2-YP24WV-qyHhqeCn4uiozMNZUVehqE/view?usp=drive_link" target="_blank" rel="noopener" style="color: rgb(255, 165, 0);"><em>Algorithmic Pricing, Recommendation Systems, and Competition</em></a> is currently under a Revise and Resubmit at the International Journal of Industrial Organization.</p>
     design:
       columns: '1'
 

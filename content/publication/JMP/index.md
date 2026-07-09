@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '/Research/JMP_20260611.pdf'
+url_pdf: 'https://drive.google.com/file/d/1QVyke0nyIxgv5jUvWM3OXV3niEwzh9I5/view?usp=drive_link'
 url_code: 'https://github.com/willbrasic/Hooked_on_Flavor'
 
 # Featured image

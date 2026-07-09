@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: /Research/Algorithmic_Pricing_Recommendation_Systems_and_Competition_20250723.pdf
+url_pdf: https://drive.google.com/file/d/1m2-YP24WV-qyHhqeCn4uiozMNZUVehqE/view?usp=drive_link
 url_code: "https://github.com/willbrasic/Algorithmic_Pricing_Recommendation_Systems_Competition"
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_slides: ''
