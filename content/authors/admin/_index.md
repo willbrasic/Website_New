@@ -49,9 +49,6 @@ education:
         # - Antitrust and Competition Policy
         # - Applied Econometrics
         # - Applied Machine Learning
-  - area: M.A., Economics
-    institution: The University of Arizona
-    date_end: "2024-05-01"
   - area: M.S., Data Intelligence and Applied Economics
     institution: University of Nevada - Las Vegas
     date_end: "2022-05-01"
