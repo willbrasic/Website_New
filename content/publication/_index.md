@@ -4,7 +4,7 @@ cms_exclude: false
 type: landing
 
 design:
-  spacing: "6rem"
+  spacing: "2rem"
 
 sections:
   - block: collection

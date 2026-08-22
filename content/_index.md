@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "2rem"
 
 sections:
   - block: resume-biography-3
@@ -40,7 +40,7 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        <p style="color: white;">My research uses industrial organization and applied microeconomics to answer questions in health economics, artificial intelligence, and antitrust and competition policy. My job market paper <a href="https://drive.google.com/file/d/1QVyke0nyIxgv5jUvWM3OXV3niEwzh9I5/view?usp=drive_link" target="_blank" rel="noopener" style="color: rgb(255, 165, 0);"><em>Hooked on Flavor: Addiction, Present Bias, and the Consequences of E-Cigarette Flavor Policy</em></a> examines how flavored e-cigarette regulations affect addiction and consumer behavior through a dynamic structural model. I also study the competitive effects of pricing algorithms, with works recognized by awards at The University of Arizona. My paper <a href="https://drive.google.com/file/d/1m2-YP24WV-qyHhqeCn4uiozMNZUVehqE/view?usp=drive_link" target="_blank" rel="noopener" style="color: rgb(255, 165, 0);"><em>Algorithmic Pricing, Recommendation Systems, and Competition</em></a> is currently under a Revise and Resubmit at the International Journal of Industrial Organization.</p>
+        <p style="color: white;">My research answers questions in health economics, artificial intelligence, and antitrust and competition policy. My job market paper <a href="https://drive.google.com/file/d/1QVyke0nyIxgv5jUvWM3OXV3niEwzh9I5/view?usp=drive_link" target="_blank" rel="noopener" style="color: rgb(255, 165, 0);"><em>Hooked on Flavor: Addiction, Present Bias, and the Consequences of E-Cigarette Flavor Policy</em></a> examines how flavored e-cigarette regulations affect addiction and consumer behavior through a dynamic structural model. I also study the competitive effects of pricing algorithms and recommendation systems, an area of growing antitrust enforcement interest. My paper <a href="https://drive.google.com/file/d/1m2-YP24WV-qyHhqeCn4uiozMNZUVehqE/view?usp=drive_link" target="_blank" rel="noopener" style="color: rgb(255, 165, 0);"><em>Algorithmic Pricing, Recommendation Systems, and Competition</em></a> is currently under a Revise and Resubmit at the International Journal of Industrial Organization. My work in this area has been recognized with multiple best paper awards at The University of Arizona.</p>
     design:
       columns: '1'
 
@@ -49,7 +49,7 @@ sections:
       title: 'My Hobbies'
       subtitle: ''
       text: |-
-        <p style="color: white;">When I'm not doing economics, you can usually find me traveling with my wife, hanging out with our cat, at the gym working on my calisthenics and running, or talking about the Chicago Bears 🐻⬇️.</p>
+        <p style="color: white;">When I'm not doing economics, you can usually find me traveling with my wife, hanging out with our cat, at the gym training calisthenics, running in the Tucson desert, or talking about the Chicago Bears 🐻⬇️.</p>
     design:
       columns: '1'
 
