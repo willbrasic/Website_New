@@ -49,7 +49,7 @@ sections:
       title: 'My Toolkit'
       subtitle: ''
       text: |-
-        <p style="color: white;">I am well-versed in quasi-experimental techniques such as difference-in-differences, regression discontinuity design, and synthetic control, along with applying structural models, both static and dynamic, to help answer empirical questions. I implement these methods using R, Python, MATLAB, Julia, and C++, supported by Git/GitHub for version control, Docker for reproducible environments, and Slurm for high-performance computing.</p>
+        <p style="color: white;">I am well-versed in quasi-experimental techniques such as difference-in-differences, regression discontinuity design, and synthetic control, along with applying structural models, both static and dynamic, to help answer empirical questions. I implement these methods using R, MATLAB, C++, Julia, and Python, supported by Git/GitHub for version control, Docker for reproducible environments, and Slurm for high-performance computing.</p>
     design:
       columns: '1'
 
