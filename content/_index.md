@@ -67,7 +67,7 @@ sections:
       title: 'My Hobbies'
       subtitle: ''
       text: |-
-        <p style="color: white;">When I'm not doing economics, you can usually find me traveling with my wife, hanging out with our cat, at the gym training calisthenics, running in the Tucson desert, or talking about the Chicago Bears 🐻⬇️.</p>
+        <p style="color: white;">When I'm not doing economics, you can usually find me traveling with my wife, hanging out with our cat, training calisthenics in the gym, running in the Tucson desert, or talking about the Chicago Bears 🐻⬇️.</p>
     design:
       columns: '1'
 
