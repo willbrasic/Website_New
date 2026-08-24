@@ -36,8 +36,6 @@ profiles:
 interests:
   - Industrial Organization
   - Applied Microeconomics
-  - Digital Economics and AI
-  - Antitrust and Competition Policy
 
 education:
   - area: Ph.D., Economics (Expected May 2027)
@@ -249,4 +247,4 @@ awards:
 
 ## About Me
 
-Welcome! I am a doctoral candidate in economics at The University of Arizona currently on the 2026-2027 job market. I specialize in industrial organization and applied microeconomics, drawing on structural modeling, causal inference, and machine learning to study how firms and consumers behave in imperfectly competitive markets. I have also applied this training in practice, including an Associate Externship at Analysis Group and a research assistantship supporting expert witness testimony on a utility rate case for the Arizona Residential Utility Consumer Office.
+Welcome! I am a doctoral candidate in economics at The University of Arizona currently on the 2026-2027 job market. I specialize in industrial organization and applied microeconomics, drawing on structural modeling, causal inference, and machine learning to study how firms and consumers behave in imperfectly competitive markets.

@@ -46,10 +46,19 @@ sections:
 
   - block: markdown
     content:
+      title: 'My Professional Experience'
+      subtitle: ''
+      text: |-
+        <p style="color: white;">Beyond research, I have gained hands-on experience applying my training in industrial organization and applied microeconomics to real-world economic issues. As an Associate Extern at Analysis Group, I analyzed financial and subscriber data to estimate damages and inform strategic recommendations in a high-profile carriage-fee dispute. As a research assistant for the Arizona Residential Utility Consumer Office, I supported expert witness testimony by conducting data-driven impact assessments of proposed utility rate increases.</p>
+    design:
+      columns: '1'
+
+  - block: markdown
+    content:
       title: 'My Toolkit'
       subtitle: ''
       text: |-
-        <p style="color: white;">I am well-versed in quasi-experimental techniques such as difference-in-differences, regression discontinuity design, and synthetic control, along with applying structural models, both static and dynamic, to help answer empirical questions. I implement these methods using R, MATLAB, C++, Julia, and Python, supported by Git/GitHub for version control, Docker for reproducible environments, and Slurm for high-performance computing.</p>
+        <p style="color: white;">I am well-versed in quasi-experimental methods such as difference-in-differences, regression discontinuity design, and synthetic control, along with applying structural models, both static and dynamic, to help answer empirical questions. I implement these methods using R, MATLAB, C++, Julia, and Python, along with Git/GitHub for version control, Docker for reproducible environments, and Slurm for high-performance computing.</p>
     design:
       columns: '1'
 
