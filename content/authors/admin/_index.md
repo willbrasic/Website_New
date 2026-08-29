@@ -27,7 +27,7 @@ profiles:
     url: 'mailto:wbrasic@arizona.edu'
     label: E-mail
   - icon: brands/github
-    url: https://github.com/willbrasic/willbrasic
+    url: https://github.com/willbrasic
     label: GitHub
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/william-brasic/
