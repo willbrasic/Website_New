@@ -75,7 +75,7 @@ work:
     date_start: 2025-07-14
     date_end: 2025-07-17
     summary: |2-
-      - Selected as 1 of 14 externs (4\% acceptance rate) for Analysis Group's inaugural Associate Externship Program
+      - Selected as 1 of 14 externs (4% acceptance rate) for Analysis Group's inaugural Associate Externship Program
       - Conducted qualitative research on a high-profile legal complaint involving a carriage fee dispute, synthesizing key facts and the regulatory landscape
       - Analyzed subscriber and financial data to uncover trends, estimate damages, and deliver actionable insights to support strategic recommendations during a case
       - Collaborated with Associates on live case discussions and client deliverables, concluding the externship with a team presentation of research findings to Analysis Group colleagues
@@ -87,8 +87,8 @@ work:
     date_end: 2026-05-01
     summary: |2-
       Arizona Residential Utility Consumer Office
-      - Supported expert witness testimony for <a href="https://www.stanleyscottreynolds.com/" target="_blank" rel="noopener">Professor Stanley Reynolds</a> by conducting data-driven impact assessments of proposed rate increases, projecting damages based on consumer demographics and income
-      - Gathered, aggregated, and cleaned 10+ gigabytes of retail electricity billing records and U.S. Census income data to analyze energy affordability for Arizona utility customers across ZIP codes and socio-economic groups
+      - Supported expert witness testimony for <a href="https://www.stanleyscottreynolds.com/" target="_blank" rel="noopener">Professor Stanley Reynolds</a> by conducting data-driven assessments of household energy burden, analyzing electricity spending as a share of income across geographic and socioeconomic groups
+      - Gathered, aggregated, and cleaned 10+ gigabytes of retail electricity billing records and U.S. Census income data, linking Arizona utility customers to ZIP-code-level income measures
     # - Analyzed federal energy survey data to benchmark Arizona's energy affordability against national averages
     # - Co-authored a white paper documenting energy burden disparities across income groups and geographic areas in Arizona to support regulatory proceedings
   - position: Sole Instructor of Record
@@ -98,8 +98,8 @@ work:
     date_start: 2024-08-01
     date_end: 2024-12-01
     summary: |2-
-      Introduction to Econometrics
-      - Solely instructed 20+ students on econometrics and machine learning, receiving a mean evaluation grade of 94%
+      ECON 418-518: Introduction to Econometrics
+      - Developed curriculum and independently instructed 20+ students on econometrics and machine learning, receiving a mean teaching evaluation score of 94%
       - Guided students in using R for data science, econometrics, and machine learning using real-world examples and data
   - position: Head Graduate Teaching Assistant
     company_name: The University of Arizona
@@ -108,7 +108,7 @@ work:
     date_start: 2022-08-01
     date_end: 2025-12-01
     summary: |2-
-      Basic Economic Issues
+      ECON 200: Basic Economic Issues
       - Led teams of 10+ undergraduate and graduate students as the head teaching assistant in this 500+ student course
       - Coordinated between the course instructor and TAs/preceptors on meetings, deadlines, and deliverables
   - position: Graduate Teaching Assistant
@@ -118,9 +118,9 @@ work:
     date_start: 2022-08-01
     date_end: 2027-05-01
     summary: |2-
-      - Public Sector Economics
-      - Industrial and Antitrust Economics
-      - Computations Methods and Dynamic Models in Economics (<em>Ph.D.</em>)
+      - ECON 435: Public Sector Economics
+      - ECON 460: Industrial and Antitrust Economics
+      - ECON 502B: Computational Methods and Dynamic Models (<em>Ph.D.</em>)
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -151,15 +151,7 @@ skills:
         description: ''
         # percent: 80
         icon: code-bracket
-      - name: Microsoft Office
-        description: ''
-        # percent: 80
-        icon: code-bracket
       - name: Git/GitHub
-        description: ''
-        # percent: 80
-        icon: code-bracket
-      - name: Shell
         description: ''
         # percent: 80
         icon: code-bracket
@@ -168,6 +160,14 @@ skills:
         # percent: 80
         icon: code-bracket
       - name: Slurm
+        description: ''
+        # percent: 80
+        icon: code-bracket
+      - name: Shell
+        description: ''
+        # percent: 80
+        icon: code-bracket
+      - name: Microsoft Office
         description: ''
         # percent: 80
         icon: code-bracket
